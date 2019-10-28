@@ -14,7 +14,7 @@ def add_datetime(file_name, time_format):
     """
     curr_date = datetime.datetime.now()
     str_date = curr_date.strftime(time_format)
-    return str_date + "_" + file_name
+    return file_name + "_" + str_date+ ".csv"
 
 
 def number_of_pages(links):
@@ -24,7 +24,7 @@ def number_of_pages(links):
 
 
 def list_to_csv(search_term,token):
-    desired_filename = add_datetime("output1" + ".csv", '%Y%m%d_%H-%M-%S')
+    desired_filename = add_datetime("output", '%Y-%m-%d-%H-%M')
     with open(desired_filename, 'w+', newline='', encoding="utf-8") as csv_file:
         fieldnames_csv = ['Name', 'Description', 'URL', 'Language', 'Updated']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames_csv)

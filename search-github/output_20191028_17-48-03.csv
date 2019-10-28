@@ -1,0 +1,901 @@
+Name,Description,URL,Language,Updated
+react-tetris,"Use React, Redux, Immutable to code Tetris. 🎮",https://api.github.com/repos/chvin/react-tetris,JavaScript,2019-10-27T20:31:47Z
+blockrain.js,HTML5 Tetris Game for jQuery,https://api.github.com/repos/Aerolab/blockrain.js,JavaScript,2019-10-12T02:26:51Z
+javascript-tetris,A simple javascript tetris game,https://api.github.com/repos/jakesgordon/javascript-tetris,HTML,2019-10-16T19:29:47Z
+hextris,Fast paced HTML5 puzzle game inspired by Tetris!,https://api.github.com/repos/Hextris/hextris,JavaScript,2019-10-27T17:07:58Z
+tetris_game,A Tetris Game with AI,https://api.github.com/repos/LoveDaisy/tetris_game,Python,2019-10-27T11:07:01Z
+canvas-tetris,A 2D tetris game in HTML5 canvas,https://api.github.com/repos/dionyziz/canvas-tetris,JavaScript,2019-10-21T11:20:55Z
+tinytetris,80x23 terminal tetris!,https://api.github.com/repos/taylorconor/tinytetris,C++,2019-10-27T02:13:35Z
+ARTetris,Augmented Reality Tetris made with ARKit and SceneKit,https://api.github.com/repos/exyte/ARTetris,Swift,2019-10-25T10:08:19Z
+mini-tetris,Tetris in 512b,https://api.github.com/repos/veu/mini-tetris,JavaScript,2019-10-26T07:57:46Z
+Blockinger,Tetris clone for Android,https://api.github.com/repos/vocollapse/Blockinger,Java,2019-10-22T11:44:22Z
+vue-tetris,"Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块 ",https://api.github.com/repos/Binaryify/vue-tetris,JavaScript,2019-10-28T06:12:27Z
+Tetris,Tetris Project,https://api.github.com/repos/PSNB92/Tetris,Java,2019-09-09T15:36:19Z
+swiftris,A Tetris clone made in Swift.,https://api.github.com/repos/Bloc/swiftris,Swift,2019-09-19T09:11:14Z
+tetris_mcts,MCTS project for Tetris,https://api.github.com/repos/hrpan/tetris_mcts,Python,2019-10-25T01:15:32Z
+Super-Template-Tetris,Tetris as a C++ Template Metaprogram ,https://api.github.com/repos/mattbierner/Super-Template-Tetris,C++,2019-10-28T04:48:13Z
+tetros,Tetris that fits into the boot sector.,https://api.github.com/repos/daniel-e/tetros,Assembly,2019-10-18T16:10:08Z
+sedtris,Tetris in sed,https://api.github.com/repos/uuner/sedtris,Shell,2019-10-16T07:19:17Z
+t3tr0s,30th anniversary tetris in ClojureScript,https://api.github.com/repos/imalooney/t3tr0s,Clojure,2019-10-04T02:21:56Z
+termtris,A text-based game inspired by tetris.,https://api.github.com/repos/tylerneylon/termtris,Lua,2019-10-15T15:26:11Z
+tetris,A terminal interface for Tetris,https://api.github.com/repos/samtay/tetris,Haskell,2019-10-14T16:06:08Z
+yetris,Customizable Tetris(tm) for the terminal.,https://api.github.com/repos/alexdantas/yetris,C++,2019-10-17T01:32:25Z
+tetris,Tetris in C and NCURSES.,https://api.github.com/repos/brenns10/tetris,C,2019-09-25T23:56:23Z
+cpp,Tetris Game // Generalized Tetris in C++11,https://api.github.com/repos/yongye/cpp,,2019-09-30T07:01:20Z
+flutter-tetris,a tetris game powered by flutter. 使用flutter开发俄罗斯方块。,https://api.github.com/repos/boyan01/flutter-tetris,Dart,2019-10-25T15:01:50Z
+tetris,"Micro Tetris™, based on the 1989 IOCCC Obfuscated Tetris by John Tromp",https://api.github.com/repos/troglobit/tetris,C,2019-10-08T23:07:45Z
+tetris,A hacked together Tetris lacking design completely. Edit: it now has a little design.,https://api.github.com/repos/meth-meth-method/tetris,JavaScript,2019-10-13T11:15:08Z
+tetr.js,🕹️ Tetris clone in HTML5 and JavaScript,https://api.github.com/repos/simonlc/tetr.js,JavaScript,2019-10-26T03:22:44Z
+Threejs-Tetris,3D Tetris implementation in WebGL,https://api.github.com/repos/fridek/Threejs-Tetris,JavaScript,2018-09-23T08:45:06Z
+tetris,Play tetris in your terminal - in color,https://api.github.com/repos/mafintosh/tetris,JavaScript,2019-07-15T17:38:40Z
+tdd-tetris-tutorial,Tutorial for learning TDD. You make a Tetris game by writing code to pass the test cases. See README for instructions.,https://api.github.com/repos/luontola/tdd-tetris-tutorial,Java,2019-10-17T02:14:08Z
+tetrisai,A Tetris AI written in Javascript,https://api.github.com/repos/LeeYiyuan/tetrisai,JavaScript,2019-10-20T21:13:01Z
+Tetris,Html5 Tetris game,https://api.github.com/repos/sandywalker/Tetris,JavaScript,2019-07-23T03:45:48Z
+CppTetris,Tetris made within an hour,https://api.github.com/repos/DQNEO/CppTetris,C++,2019-10-17T22:50:41Z
+redux-tetris,Simple tetris clone made using React + Redux.,https://api.github.com/repos/slugo/redux-tetris,JavaScript,2019-08-20T11:23:18Z
+react-tetris-starter-files,Starter files for the React-Tetris tutorial,https://api.github.com/repos/weibenfalk/react-tetris-starter-files,HTML,2019-10-22T11:08:57Z
+tetris,TETRIS for your terminal,https://api.github.com/repos/k0kubun/tetris,Go,2019-09-23T04:30:31Z
+t3tr0s-slides,interactive guide to tetris in cljs,https://api.github.com/repos/shaunlebron/t3tr0s-slides,Clojure,2019-08-13T15:49:46Z
+Nand2Tetris,"Computer implementation as described in ""The Elements of Computing Systems""",https://api.github.com/repos/havivha/Nand2Tetris,Assembly,2019-10-24T13:01:42Z
+Tetris,"On June 6, 2019 Tetris turned 35 years old. To celebrate, I wrote my own version and published it in my GitHub repo. No libraries. No frameworks. Just JavaScript. And no, this is not the best way, nor is it most-optimized version. It's just a simple break down.",https://api.github.com/repos/javascriptteacher/Tetris,HTML,2019-10-20T00:00:59Z
+shell,Tetris Game // The Art Of Shell Programming ,https://api.github.com/repos/yongye/shell,,2019-07-31T14:14:27Z
+tetris,"Tetris game implemented in languages I used for something more serious than ""Hello world"".",https://api.github.com/repos/kt97679/tetris,Java,2019-09-05T15:20:41Z
+tetris,,https://api.github.com/repos/tdd-elevator-training/tetris,Java,2018-07-12T20:11:27Z
+DOM-Tetris,A JavaScript implementation of Tetris.,https://api.github.com/repos/daltonridenhour/DOM-Tetris,JavaScript,2019-08-13T14:26:03Z
+tetris-on-a-plane,,https://api.github.com/repos/jstimpfle/tetris-on-a-plane,JavaScript,2019-08-24T14:03:54Z
+gotris,A classic tetris game written in Go programming language,https://api.github.com/repos/nsf/gotris,Go,2019-06-10T07:20:53Z
+tetrys,𝌶 Tetris as Progressive Web Application,https://api.github.com/repos/morkro/tetrys,JavaScript,2019-10-10T03:46:32Z
+tetris,A clone of the popular game Tetris.,https://api.github.com/repos/nullobject/tetris,JavaScript,2019-07-15T13:05:33Z
+Tetris,Python/Tkinter Tetris,https://api.github.com/repos/bsamek/Tetris,Python,2019-10-12T06:36:07Z
+elmtris,A Tetris game for the web browser written in Elm,https://api.github.com/repos/jcollard/elmtris,Elm,2019-08-13T15:28:32Z
+iPhone-Tetris,A little iPhone tetris game written with cocos2d,https://api.github.com/repos/joshvera/iPhone-Tetris,Objective-C,2019-08-13T14:28:20Z
+tetrasm,Tetris for x86 in NASM,https://api.github.com/repos/programble/tetrasm,Assembly,2019-10-06T19:42:25Z
+nand2tetris,计算机系统要素-从零开始构建现代计算机,https://api.github.com/repos/woai3c/nand2tetris,JavaScript,2019-10-25T05:09:27Z
+Quick-Tetris,Built a quick version of Tetris.,https://api.github.com/repos/sacert/Quick-Tetris,JavaScript,2019-07-13T21:24:27Z
+Tetris-JavaScript,"The Tetris game, created using JavaScript, and The HTML5 canvas.",https://api.github.com/repos/CodeExplainedRepo/Tetris-JavaScript,JavaScript,2019-10-27T21:24:32Z
+tiny-tetris,"A Python Tetris implementation that ""fits on a business card"" (20 lines x 80 characters)",https://api.github.com/repos/nickmpaz/tiny-tetris,Python,2019-10-10T20:28:12Z
+tetris-unity,A Tetris clone created with Unity.,https://api.github.com/repos/DraphonyGames/tetris-unity,C#,2019-07-05T08:49:17Z
+TetrisPlayground,A final project for Advanced Machine Learning. Build bots to play against this Tetris Sandbox!,https://api.github.com/repos/mbrenman/TetrisPlayground,C++,2019-10-03T01:11:11Z
+tetris,:space_invader: The original TETRIS game simulator,https://api.github.com/repos/ytiurin/tetris,JavaScript,2019-09-01T22:55:24Z
+swiftris,tetris clone for educational purposes,https://api.github.com/repos/jtklier/swiftris,Swift,2019-09-01T18:13:48Z
+c,Tetris Game // Generalized Tetris in C,https://api.github.com/repos/yongye/c,,2019-10-10T15:48:44Z
+ai_tetris,俄罗斯方块（C++）,https://api.github.com/repos/hinesboy/ai_tetris,C++,2019-10-15T14:07:05Z
+gotetris,This is a console-based version of Tetris written in Go,https://api.github.com/repos/jjinux/gotetris,Go,2019-10-16T00:26:10Z
+pockeTETRIS,Compact Tetris clone,https://api.github.com/repos/dombeef/pockeTETRIS,Arduino,2019-04-21T12:43:35Z
+panel-attack,Tetris Attack/Panel de Pon clone in lua with LOVE,https://api.github.com/repos/sharpobject/panel-attack,Lua,2019-08-30T22:10:21Z
+JS-Tetris,Javascript-based Tetris game,https://api.github.com/repos/andysterks/JS-Tetris,JavaScript,2019-06-28T18:11:18Z
+tetris-light,Ultra light tetris game in HTML5.,https://api.github.com/repos/michowski/tetris-light,HTML,2018-05-01T05:05:24Z
+Tetris,"俄罗斯方块, unity, MVC, DOTween",https://api.github.com/repos/jingangxin36/Tetris,C#,2019-10-24T00:47:34Z
+tetris,A simple tetris clone written in zig programming language.,https://api.github.com/repos/andrewrk/tetris,C,2019-10-24T18:21:10Z
+Tetris-Swing,Swing编写的俄罗斯方块,https://api.github.com/repos/HelloClyde/Tetris-Swing,Java,2019-10-25T13:08:33Z
+ASCII-Tetris,ASCII Tetris game written in C,https://api.github.com/repos/Gregwar/ASCII-Tetris,C,2019-09-10T12:00:52Z
+terminally-tetris,"It’s everything you could want from a 1984 Russian-made video game, but now without leaving the comfort of your favorite shell!",https://api.github.com/repos/thecardkid/terminally-tetris,C,2019-07-02T11:58:57Z
+tetris,c++ terminal tetris game. 俄罗丝方块，c++版,https://api.github.com/repos/fanux/tetris,C++,2019-10-13T15:23:29Z
+tetris-tutorial,From rags to riches; building Tetris with no programming experience.,https://api.github.com/repos/jonhoo/tetris-tutorial,JavaScript,2019-08-01T21:30:47Z
+tetris,An almost complete tetris,https://api.github.com/repos/djblue/tetris,Clojure,2019-10-26T07:23:57Z
+JavaFX-Tetris-Clone,JavaFX Tetris game clone written in Java 8,https://api.github.com/repos/javafx-dev/JavaFX-Tetris-Clone,Java,2019-10-12T10:56:44Z
+HTML5-Tetris,A HTML5 Tetris Implementation,https://api.github.com/repos/infusion/HTML5-Tetris,JavaScript,2018-10-18T21:43:07Z
+MaTris,A clone of Tetris made using pygame,https://api.github.com/repos/Uglemat/MaTris,Python,2019-09-27T11:43:04Z
+How_to_make_an_evolutionary_tetris_bot,"This is the code for the ""How to Make an Evolutionary Tetris Bot"" by Siraj Raval on Youtube",https://api.github.com/repos/llSourcell/How_to_make_an_evolutionary_tetris_bot,JavaScript,2019-10-03T01:07:12Z
+vitetris,Classic multiplayer tetris for the terminal,https://api.github.com/repos/vicgeralds/vitetris,C,2019-10-19T14:48:25Z
+wasm-tetris,Wasm Tetris,https://api.github.com/repos/xuu/wasm-tetris,Rust,2019-09-08T08:20:53Z
+eltetris,Tetris AI,https://api.github.com/repos/ielashi/eltetris,JavaScript,2019-07-26T02:53:23Z
+tetris.c64,Tetris in 6502 for the Commodore 64,https://api.github.com/repos/wiebow/tetris.c64,Assembly,2019-08-13T16:03:34Z
+flutter-tetris,基于Flutter的俄罗斯方块小游戏,https://api.github.com/repos/yubo725/flutter-tetris,Dart,2019-10-19T16:04:37Z
+PYTRIS,tetris made with pygame,https://api.github.com/repos/k0626089/PYTRIS,Python,2019-08-03T05:49:40Z
+go,Tetris Game // Generalized Tetris in Golang,https://api.github.com/repos/yongye/go,,2019-07-31T14:15:08Z
+Nand2Tetris,All projects for Nand2Teris,https://api.github.com/repos/xctom/Nand2Tetris,Assembly,2019-10-23T06:41:05Z
+vue-tetris,Vue Tetris 🏰,https://api.github.com/repos/Elevista/vue-tetris,Vue,2019-10-23T05:24:36Z
+react-native-tetris,A pure javascript game written on react-native framework. Brings the childhood memories back!,https://api.github.com/repos/ggomaeng/react-native-tetris,JavaScript,2019-10-24T16:48:35Z
+yafpgatetris,Yet Another Tetris on FPGA Implementation,https://api.github.com/repos/johan92/yafpgatetris,Verilog,2019-09-22T02:00:53Z
+TetrisAnimation,Library to draw numbers on a LED matrix in a tetris style,https://api.github.com/repos/toblum/TetrisAnimation,C++,2019-10-20T19:38:04Z
+haskell-tetris,Tetris game written in Haskell using ncurses,https://api.github.com/repos/hauxir/haskell-tetris,Haskell,2019-10-10T11:29:33Z
+react-tetris,:video_game: by popular demand,https://api.github.com/repos/brandly/react-tetris,JavaScript,2019-08-15T07:15:54Z
+Terminal-Tetris,Terminal based Tetris game written in python,https://api.github.com/repos/ravi-ojha/Terminal-Tetris,Python,2019-10-06T18:42:07Z
+UnityTetris,Tetris clone written in C# and using Unity engine to render.,https://api.github.com/repos/Mukarillo/UnityTetris,C#,2019-10-18T09:10:39Z
+Tetris,俄罗斯方块小游戏Swift实现,https://api.github.com/repos/geniusZhangXu/Tetris,Swift,2018-01-12T13:35:21Z
+tis,An embeddable Tetris clone without dependencies in 4 kB of JavaScript,https://api.github.com/repos/ttencate/tis,JavaScript,2019-10-17T00:57:22Z
+Tetris-Game,The game of Tetris. Made with pygame.,https://api.github.com/repos/techwithtim/Tetris-Game,Python,2019-08-08T06:38:06Z
+Tetris,"俄罗斯方块游戏；基于VC/C命令行窗口，彩色界面，完整的俄罗斯方块实现。(大学课程作业）(Tetris, base on Windows VC&C Command Window)",https://api.github.com/repos/yestab123/Tetris,C,2019-07-20T02:47:20Z
+tetrisRL,A Tetris environment to train machine learning agents,https://api.github.com/repos/jaybutera/tetrisRL,Python,2019-10-09T15:15:55Z
+tetris-sdl-c,🕹️ A toy project implementing a simple tetris clone in C for learning SDL 2.x.,https://api.github.com/repos/dashed/tetris-sdl-c,C,2019-10-19T07:10:35Z
+tetris,:memo: Disassembly of Tetris for Game Boy.,https://api.github.com/repos/osnr/tetris,Assembly,2019-10-18T18:48:25Z
+Tetris-Duel,Multiplayer Tetris for Raspberry Pi (in bare metal assembly),https://api.github.com/repos/Tetris-Duel-Team/Tetris-Duel,Assembly,2019-06-19T06:42:50Z
+tetranglix,A bootable 512-byte Tetris clone.,https://api.github.com/repos/shikhin/tetranglix,Assembly,2019-09-16T23:27:48Z
+Swiftris,Swift version Tetris game.,https://api.github.com/repos/hiddenviewer/Swiftris,Swift,2019-10-20T18:32:18Z
+bare-metal-tetris,Tetris for x86 in bad C. Succeeded by Tetrasm.,https://api.github.com/repos/programble/bare-metal-tetris,C,2019-08-29T04:14:17Z
+flatris,Fast-paced two-player web game,https://api.github.com/repos/skidding/flatris,JavaScript,2019-10-24T16:46:04Z
+hatetris,Tetris which always gives you the worst piece,https://api.github.com/repos/qntm/hatetris,JavaScript,2019-10-28T02:10:57Z
+github-games,It's Tetris!,https://api.github.com/repos/opsgilityschool/github-games,HTML,2018-02-06T15:26:46Z
+clj-tetris,Example Tetris in Clojure,https://api.github.com/repos/yogthos/clj-tetris,Clojure,2019-08-24T04:17:08Z
+QtTetris,A tetris game written in Qt,https://api.github.com/repos/tashaxing/QtTetris,C++,2019-10-07T06:14:04Z
+tetris,俄罗斯方块,https://api.github.com/repos/zquancai/tetris,JavaScript,2019-07-23T08:53:26Z
+tetris,Java implementation of Tetris,https://api.github.com/repos/IanEsling/tetris,Java,2019-09-05T15:40:39Z
+tetris,"Awesome Tetris in all kinds of Languages(C, C++, Go, Shell)",https://api.github.com/repos/deepgrace/tetris,C,2019-10-12T20:18:26Z
+tetris,Just another Tetris™ clone,https://api.github.com/repos/spypunk/tetris,Java,2019-09-05T11:39:33Z
+Tiny-Tetris,Tetris Clone with OLED SSD1306(I2C) for Arduino Nano / Uno,https://api.github.com/repos/AJRussell/Tiny-Tetris,Arduino,2019-09-03T08:04:23Z
+c-sharp-tetris,Just simple tetris game written on C#,https://api.github.com/repos/BobNobrain/c-sharp-tetris,C#,2019-10-10T07:53:18Z
+ngTetris,Use AngularJS to build a simple Tetris game.,https://api.github.com/repos/daihuaye/ngTetris,JavaScript,2019-10-24T17:01:00Z
+tetris-ai,A deep reinforcement learning bot that plays tetris,https://api.github.com/repos/nuno-faria/tetris-ai,Python,2019-10-09T10:32:56Z
+Tetris,俄罗斯方块，Java大作业,https://api.github.com/repos/xilingyuli/Tetris,Java,2019-10-01T07:50:18Z
+tetris,,https://api.github.com/repos/timothypratley/tetris,Clojure,2019-05-31T08:17:01Z
+Bash-Games,"LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)",https://api.github.com/repos/liungkejin/Bash-Games,Shell,2019-10-16T06:09:26Z
+rusty-tetris,A Tetris clone written in Rust,https://api.github.com/repos/bachm/rusty-tetris,Rust,2019-09-30T06:19:38Z
+WiFi-Tetris-Clock,A WiFi clock made of falling tetris blocks. For the ESP8266 or ESP32,https://api.github.com/repos/witnessmenow/WiFi-Tetris-Clock,C++,2019-10-18T06:21:21Z
+ts100tris,Tetris for TS100 soldering iron (and a few feature branches),https://api.github.com/repos/joric/ts100tris,C,2019-10-17T03:11:04Z
+WpfTetris,MVVM based Tetris application sample on WPF,https://api.github.com/repos/xin9le/WpfTetris,C#,2019-09-15T07:17:01Z
+everpuzzle,Tetris Attack/Pokemon Puzzle clone written in Rust with Ametyhst,https://api.github.com/repos/Skytrias/everpuzzle,Rust,2019-10-15T07:05:36Z
+QFT,A repository for the Quest For Tetris,https://api.github.com/repos/QuestForTetris/QFT,Python,2019-09-25T11:10:52Z
+gottet,Tetris clone.,https://api.github.com/repos/gottcode/gottet,C++,2019-08-13T13:26:53Z
+ChuckTetris,"Jogo baseado no Tetris construído em 2007 para a disciplina de Programação Orientada a Objetos II para o curso de Graduação em Sistemas de Informação pela UFSC. O projeto foi desenvolvido por Kaléu Caminha, Murilo Laghi e Robinson",https://api.github.com/repos/konscia/ChuckTetris,Java,2018-06-09T04:31:45Z
+panel-pop,Panel de Pon / Tetris Attack / Puzzle League clone,https://api.github.com/repos/a544jh/panel-pop,C++,2019-08-31T19:41:53Z
+autotetris-mode,Automatically play Emacs Tetris,https://api.github.com/repos/skeeto/autotetris-mode,Emacs Lisp,2019-08-18T04:33:29Z
+TetrisPlayer,Bot for tetrisfriends.com,https://api.github.com/repos/Hohol/TetrisPlayer,Java,2018-11-05T06:01:16Z
+freesiege,An intense tetris-like wargame,https://api.github.com/repos/joelthelion/freesiege,C++,2019-08-13T13:52:11Z
+TetrisGame,俄罗斯方块游戏开发教程实例代码,https://api.github.com/repos/yeahatgithub/TetrisGame,Python,2019-09-11T02:36:38Z
+TetrisAI,The old school Tetris game in addition with an AI that learns evolutionary how to play this game,https://api.github.com/repos/brendanberg01/TetrisAI,Python,2019-08-16T09:21:26Z
+clojureTetris,Minimalist Clojure+OpenGL implementation of Tetris.,https://api.github.com/repos/thomanil/clojureTetris,Clojure,2018-12-06T18:53:23Z
+SpeedBlocks,Fast paced tetris game cloned from Cultris II,https://api.github.com/repos/kroyee/SpeedBlocks,C++,2019-07-23T11:04:58Z
+arduino-tetris,,https://api.github.com/repos/mtbnunu/arduino-tetris,Arduino,2019-06-10T09:10:00Z
+esp_p10_tetris_clock,A tetris clock based on a 16x32 RGB matrix and a ESP8266,https://api.github.com/repos/toblum/esp_p10_tetris_clock,C,2019-10-18T06:39:25Z
+LuaTetrisDemo,不涉及框架，简单粗暴版l实用纯ua实现的俄罗斯方块，，，入门级Demo,https://api.github.com/repos/lixiang-share/LuaTetrisDemo,C#,2019-09-26T02:06:53Z
+t3tr0s-bare,clojurescript tetris - stripped down T3TR0S,https://api.github.com/repos/shaunlebron/t3tr0s-bare,Clojure,2019-01-12T10:17:20Z
+From-Nand-to-Tetris,assignments,https://api.github.com/repos/itzhak-razi/From-Nand-to-Tetris,Assembly,2019-09-04T07:06:33Z
+tetris,React实现的俄罗斯方块（包含AI训练）,https://api.github.com/repos/hoyt-tian/tetris,JavaScript,2019-06-20T02:59:36Z
+VaadinTetris,Vaadin + HTML 5 Canvas Demo. Originally in JavaDay Riga 2011.,https://api.github.com/repos/samie/VaadinTetris,Java,2019-07-31T15:17:03Z
+jelly-tetris,Tetris with react & redux,https://api.github.com/repos/kyunooh/jelly-tetris,JavaScript,2019-07-16T19:03:27Z
+tetris-hs,FRP tetris in Haskell with Netwire.,https://api.github.com/repos/ScrambledEggsOnToast/tetris-hs,Haskell,2019-05-30T03:08:48Z
+tetris,js+nodejs+socket.io俄罗斯方块-单机版/网络版 (Tetris of single and online),https://api.github.com/repos/inJonathan/tetris,JavaScript,2019-02-01T03:08:21Z
+TetrisThemeArduino,Plays the Tetris theme chiptunes-style,https://api.github.com/repos/lukecyca/TetrisThemeArduino,Arduino,2019-09-13T06:35:55Z
+tetris-piston,A tetris game written in Rust using the Piston library,https://api.github.com/repos/dunnker/tetris-piston,Rust,2019-10-28T08:52:25Z
+catris,exactly what it sounds like -- tetris with cute cat pics,https://api.github.com/repos/hwz/catris,JavaScript,2018-12-22T19:57:31Z
+Puyo_Puyo_Tetris_Translation,Puyo Puyo Tetris - English Translation for 3DS,https://api.github.com/repos/OngoGablogian/Puyo_Puyo_Tetris_Translation,Batchfile,2019-06-15T10:31:59Z
+Java-Tetris-Game,Java Tetris game clone source code,https://api.github.com/repos/janbodnar/Java-Tetris-Game,Java,2019-10-09T13:10:54Z
+tetrisgame,android tetris game,https://api.github.com/repos/PaddyBadger/tetrisgame,Java,2017-11-06T19:34:11Z
+nand2tetris,Solutions for http://www.nand2tetris.org/,https://api.github.com/repos/jcoglan/nand2tetris,Assembly,2019-10-22T19:41:07Z
+gym-tetris,Tetris OpenAI environment,https://api.github.com/repos/lusob/gym-tetris,Python,2019-10-25T08:46:24Z
+Threejs-Tetris-Tutorial,,https://api.github.com/repos/fridek/Threejs-Tetris-Tutorial,JavaScript,2019-03-08T09:15:39Z
+Tetris,A simple tetris game written in C#,https://api.github.com/repos/gotcreme/Tetris,C#,2019-10-10T07:54:17Z
+tetris-game,Tetris game implemented in CycleJS,https://api.github.com/repos/ivan-kleshnin/tetris-game,JavaScript,2019-09-20T16:16:48Z
+typescript-tetris,Tetris in TypeScript,https://api.github.com/repos/markheath/typescript-tetris,TypeScript,2019-06-04T02:01:30Z
+tedroid,Juego de Tetris para Android con logros y marcadores,https://api.github.com/repos/dan-zx/tedroid,Java,2017-10-11T22:35:49Z
+project_tetris_js,block based gaming,https://api.github.com/repos/vikingeducation/project_tetris_js,,2015-04-08T00:02:24Z
+GAME-Tetris,"In this repository, you will find the source of the game Tetris, developed with different programming languages such as Actionscript and TypeScript, following the micro-architecture Robotlegs.",https://api.github.com/repos/RonaldoSetzer/GAME-Tetris,TypeScript,2019-10-15T00:56:14Z
+wasm-tetris,A simple tetris clone using Rust and WebAssembly,https://api.github.com/repos/liona24/wasm-tetris,Rust,2019-10-26T08:22:33Z
+OpaTetris,A Tetris Game in OPA,https://api.github.com/repos/mattgu74/OpaTetris,,2018-07-24T11:50:13Z
+Tetris,Tetris game (Fork),https://api.github.com/repos/salifm/Tetris,Java,2019-08-28T22:11:27Z
+Tetris,俄罗斯方块——倚天队开发,https://api.github.com/repos/EMSD1701-01/Tetris,C,2019-09-04T06:57:22Z
+nand2tetris_projects,"My solutions to ""From nand to tetris""",https://api.github.com/repos/xmunoz/nand2tetris_projects,Assembly,2019-10-09T00:52:25Z
+TetrisForDesktopWithC,tetris for desktop (OS : windows / IDE : visual studio 2013),https://api.github.com/repos/kkikkodev/TetrisForDesktopWithC,C,2018-11-22T15:26:48Z
+Tetris,"Tetris game for Android, using Kotlin",https://api.github.com/repos/Odaym/Tetris,Kotlin,2018-09-27T10:42:57Z
+nand2tetris-emu,Nand2Tetris Software Suite - hardware simulator and CPU and VM emulators,https://api.github.com/repos/itoshkov/nand2tetris-emu,Java,2019-10-22T17:34:25Z
+Tetracube,Tetris clone created using Pygame,https://api.github.com/repos/mzegar/Tetracube,Python,2019-05-06T01:24:49Z
+react-tetris,React Tetris with themes,https://api.github.com/repos/rchen1992/react-tetris,JavaScript,2019-09-22T13:56:01Z
+Tetris,learn Unity by making the game Tetris,https://api.github.com/repos/laiconglin/Tetris,JavaScript,2017-10-16T09:12:13Z
+nand2tetris,The Elements of Computing Systems,https://api.github.com/repos/ReionChan/nand2tetris,Assembly,2019-10-18T01:50:46Z
+tetris-network-multiplayer,,https://api.github.com/repos/meth-meth-method/tetris-network-multiplayer,JavaScript,2019-06-30T16:34:01Z
+Tetris,用java写的俄罗斯方块，适合新手练习,https://api.github.com/repos/JasonGaoH/Tetris,Java,2019-09-25T23:19:01Z
+AR-3D-Tetris,AR 3D Tetris on iPhone.,https://api.github.com/repos/BitTigerInst/AR-3D-Tetris,C#,2019-09-14T07:19:00Z
+wtetris,"A simple OpenGL tetris game, written in C.",https://api.github.com/repos/GoranM/wtetris,C,2018-02-16T21:55:21Z
+Tetris-Python,Tetris with Pygame and a stupid AI,https://api.github.com/repos/bofeiw/Tetris-Python,Python,2019-10-18T11:28:45Z
+tetris-d3,simple tetris in d3,https://api.github.com/repos/manasapte/tetris-d3,JavaScript,2015-12-04T04:34:53Z
+MyTetris,a simple Tetris game using Java,https://api.github.com/repos/yangzw/MyTetris,Java,2019-01-21T19:36:24Z
+TetNet,TetNet is an application that uses genetic algorithms to create an evolving Tetris AI.,https://api.github.com/repos/IdreesInc/TetNet,JavaScript,2019-04-11T14:38:13Z
+ng-tetris,Check out the article on Angular In Depth,https://api.github.com/repos/melcor76/ng-tetris,TypeScript,2019-10-20T15:43:33Z
+webRTC_tetris,Multiplayer Tetris with WebRTC,https://api.github.com/repos/wardsng/webRTC_tetris,CSS,2019-05-01T00:25:19Z
+tetris,"支持本地双人对战的简单俄罗斯方块游戏. Little tetris game, supports two players. ",https://api.github.com/repos/jarontai/tetris,JavaScript,2018-07-02T05:23:04Z
+play,Play something while waiting for your command to finish,https://api.github.com/repos/a8m/play,Go,2019-10-14T12:51:58Z
+vue-tetris,Tetris in Vue.js,https://api.github.com/repos/lmiller1990/vue-tetris,JavaScript,2019-10-23T03:17:31Z
+canvas-tetris,Tetris implemented in HTML5 canvas ,https://api.github.com/repos/skid/canvas-tetris,,2018-05-10T02:07:31Z
+pblocks,Flex 3D Tetris Game,https://api.github.com/repos/ghempton/pblocks,ActionScript,2019-08-13T14:46:17Z
+tetris,Tetris solution,https://api.github.com/repos/agrouse/tetris,Python,2018-02-20T02:16:53Z
+Burton-Conner-Tetris-Battle,Burton Conner Tetris Battle -- A Tetris Installation Controlled by DDR Pads on the Side of Burton Conner,https://api.github.com/repos/rcoh/Burton-Conner-Tetris-Battle,Python,2018-02-08T06:14:09Z
+elixirconfeu_tetris,,https://api.github.com/repos/knewter/elixirconfeu_tetris,CSS,2019-03-03T17:46:20Z
+nand2tetris.el,Major Mode for HDL files in nand2tetris.,https://api.github.com/repos/CestDiego/nand2tetris.el,Emacs Lisp,2019-09-06T20:34:03Z
+Tetris,cocos2dx俄罗斯方块,https://api.github.com/repos/bluesky466/Tetris,C++,2019-08-04T23:45:49Z
+Tetris-AI,A Python AI that play Tetris famous game,https://api.github.com/repos/fthomasmorel/Tetris-AI,Python,2019-08-07T07:38:37Z
+tetris,轻松10步用es6写出俄罗斯方块:tada:,https://api.github.com/repos/timmyLan/tetris,JavaScript,2019-09-25T09:52:30Z
+TeTrIs.vim,A tetris game in pure vim,https://api.github.com/repos/vim-scripts/TeTrIs.vim,VimL,2019-07-07T04:48:04Z
+cocos2d-js-tetris,simple tetris game on cocos2d-js,https://api.github.com/repos/holiber/cocos2d-js-tetris,JavaScript,2019-03-07T06:38:39Z
+sdl2-tetris,Tetris clone written in C,https://api.github.com/repos/andwn/sdl2-tetris,C,2019-05-02T19:12:41Z
+Tetr.js,Tetris clone in JavaScript,https://api.github.com/repos/AliasIO/Tetr.js,JavaScript,2019-03-26T17:25:46Z
+tetris,":video_game: Tetris, use javascript",https://api.github.com/repos/Jiasm/tetris,JavaScript,2019-10-11T06:42:24Z
+tetris-win32,Classic tetris game on Win32 API,https://api.github.com/repos/eliangcs/tetris-win32,C++,2019-10-17T11:07:28Z
+Tetris-Game,"This game, was created for exercise and pratice javaScript skills",https://api.github.com/repos/ViniciusDeep/Tetris-Game,JavaScript,2019-09-30T02:35:11Z
+WindowTetris,Tetris where each block is an individual desktop window.  This is very old code -- from 2006,https://api.github.com/repos/Vexal/WindowTetris,Java,2018-12-11T17:37:08Z
+Blockinger,Tetris® clone for Android,https://api.github.com/repos/tasioleiva/Blockinger,Java,2019-09-18T04:42:19Z
+solution-finder,"Tetris: Find perfect clears, combos, T-spins ",https://api.github.com/repos/knewjade/solution-finder,Java,2019-10-26T09:19:52Z
+Masonry-JavaScript-Tetris-Clone,A simple Tetris clone created using HTML5/JavaScript/Phaser,https://api.github.com/repos/gamedolphin/Masonry-JavaScript-Tetris-Clone,JavaScript,2019-06-15T18:46:15Z
+mips-tetris,Tetris implemented in MIPS assembly,https://api.github.com/repos/johngunderman/mips-tetris,Assembly,2018-12-04T23:05:13Z
+nand2tetris,,https://api.github.com/repos/seebees/nand2tetris,Assembly,2019-10-02T05:27:14Z
+Tetris,俄罗斯方块,https://api.github.com/repos/WenQiangW/Tetris,C,2019-07-20T02:45:38Z
+tetrjs_battle,A JavaScript Version of Tetris,https://api.github.com/repos/johndavid9991/tetrjs_battle,,2016-07-08T02:34:42Z
+tetris-game,Tetris Game with Sound in Java,https://api.github.com/repos/stalk-calvin/tetris-game,Java,2019-10-17T02:20:34Z
+tetris-redux,:trophy: A React / Redux implementation of the Tetris game.,https://api.github.com/repos/cyan33/tetris-redux,JavaScript,2019-09-09T14:28:32Z
+Games-Tetris,俄罗斯方块游戏（SDL2 + C++开发）,https://api.github.com/repos/SmallHedgehog/Games-Tetris,C++,2019-10-26T18:37:09Z
+tprogersTetris,"Простой клон игры Тетрис, подготовленный для обучающей статьи ",https://api.github.com/repos/DoKel/tprogersTetris,Java,2019-10-08T17:13:25Z
+tetrisdemo,,https://api.github.com/repos/nafisn/tetrisdemo,,2019-03-29T17:47:18Z
+gdx-tetris,Simple Tetris for libGDX as an exercise,https://api.github.com/repos/jmillikan/gdx-tetris,Java,2016-08-25T21:10:30Z
+love2d,Love 2d based  Tetris game,https://api.github.com/repos/blganesh101/love2d,,2019-07-31T00:22:47Z
+nand2tetris,计算机系统要素-从零开始构建现代计算机 项目,https://api.github.com/repos/ytzys/nand2tetris,Assembly,2019-09-10T03:48:30Z
+kttetris,A minimal tetris clone in pygame,https://api.github.com/repos/ktt3ja/kttetris,Python,2018-04-26T12:55:32Z
+SKRBatchUpdates,Mostly here to show off Collection View Tetris,https://api.github.com/repos/skagedal/SKRBatchUpdates,Swift,2019-03-07T11:34:17Z
+tetrinria,A simple tetris implementation for training purpose,https://api.github.com/repos/sed-pro-inria/tetrinria,C,2019-07-28T07:42:05Z
+triscalino,Tetris game for Arduino on an LCD display,https://api.github.com/repos/dzimboum/triscalino,Arduino,2019-04-20T22:56:33Z
+21st-century-tetris,:video_game: Tetris clone for Linux written in C++ with SDL 2.0.,https://api.github.com/repos/chaficnajjar/21st-century-tetris,HTML,2019-08-30T17:00:11Z
+multiplayer-tetris,"Multiplayer Javascript Tetris (node.js, easeljs, angular.js, socket.io, foundation.css)",https://api.github.com/repos/zhongdeliu/multiplayer-tetris,JavaScript,2019-03-16T11:47:50Z
+nand2tetris,,https://api.github.com/repos/SeaRbSg/nand2tetris,Assembly,2019-08-13T15:33:34Z
+jsTetris,source code of http://avdg.github.com/minigame.html,https://api.github.com/repos/avdg/jsTetris,CoffeeScript,2014-06-10T18:13:19Z
+TetrisTime,,https://api.github.com/repos/VFLashM/TetrisTime,C,2017-01-25T03:16:51Z
+word-tetris,play here,https://api.github.com/repos/AbhishekCode/word-tetris,JavaScript,2019-07-15T10:54:07Z
+TetrisPL,Tetris in MVC SDL Modern Perl Style,https://api.github.com/repos/kthakore/TetrisPL,Perl,2015-01-12T06:39:16Z
+tetris,,https://api.github.com/repos/gutolpn/tetris,C,2019-10-16T14:31:53Z
+FutureBlocks,Tetris clone written in QBasic.,https://api.github.com/repos/fogleman/FutureBlocks,Visual Basic,2019-10-27T16:48:46Z
+tetris,Game of tetris in python.,https://api.github.com/repos/gittoo/tetris,Python,2019-02-26T16:04:12Z
+Tetris,Reinforcement Leanring for Tetris,https://api.github.com/repos/ReinforcementLearning/Tetris,Python,2019-05-10T11:27:24Z
+tetris,Tetris (ASCII) in c++17,https://api.github.com/repos/vmcall/tetris,C++,2019-05-11T20:25:43Z
+tetris-cocos2dx,,https://api.github.com/repos/nirasan/tetris-cocos2dx,Ruby,2017-04-21T00:05:07Z
+StandardTetris,StandardTetris,https://api.github.com/repos/misakamm/StandardTetris,C++,2018-12-13T06:44:16Z
+wear_control_tetris,Ticwear手表上通过手势控制的体感俄罗斯方块游戏,https://api.github.com/repos/ticwear/wear_control_tetris,Java,2018-01-04T09:26:28Z
+Tetris,The Tetris is an implementation of the classic game for UEFI platform.,https://api.github.com/repos/swmicro/Tetris,C,2019-08-15T12:07:11Z
+ctris,"A Tetris(TM)-clone for the console written in C, using the ncurses-library.",https://api.github.com/repos/dominikhackl/ctris,C,2019-02-13T15:37:03Z
+nand2tetris,Implementation of a general purpose computer and OS built from first principles.,https://api.github.com/repos/davidbrenner/nand2tetris,Assembly,2018-07-02T04:25:51Z
+3D-TETRIS,Code for 3D TETRIS Game,https://api.github.com/repos/msk610/3D-TETRIS,Java,2019-10-15T06:10:50Z
+MM-NEAT,"Modular Multiobjective (Hyper) Neuro-Evolution of Augmenting Topologies: Java code for evolving intelligent agents in Ms. Pac-Man, Tetris, and more!",https://api.github.com/repos/schrum2/MM-NEAT,Java,2019-09-14T17:26:27Z
+Tetris,Just a simple tetris on Android,https://api.github.com/repos/Andryyo/Tetris,Java,2019-01-20T13:37:51Z
+tetris-ai,A Tetris AI written in JavaScript that uses a genetic algorithm,https://api.github.com/repos/Loonride/tetris-ai,JavaScript,2019-10-14T13:00:15Z
+tetris-shoes,A Tetris game in Ruby Shoes,https://api.github.com/repos/jakesgordon/tetris-shoes,Ruby,2019-10-08T10:05:29Z
+tetrispad,Use the Novation Launchpad to play Tetris,https://api.github.com/repos/maxwellito/tetrispad,JavaScript,2019-10-21T08:02:32Z
+FullWebTetris,An awesome tetris to kill boredom,https://api.github.com/repos/bumxu/FullWebTetris,JavaScript,2019-02-15T08:34:10Z
+from-nand-to-tetris,"Solutions for the book ""The Elements of Computing Systems: Building a Modern Computer from First Principles""",https://api.github.com/repos/omarrayward/from-nand-to-tetris,Assembly,2019-10-05T13:37:43Z
+academy-tetris,,https://api.github.com/repos/keephopealive/academy-tetris,HTML,2019-03-26T23:33:03Z
+go-tetris,A console-based tetris implementation in go.,https://api.github.com/repos/cespare/go-tetris,Go,2019-06-12T11:23:08Z
+tetris,Tetris game with TDD,https://api.github.com/repos/brunops/tetris,JavaScript,2016-05-24T17:11:51Z
+WHC_TetrisGame,oc版俄罗斯方块游戏,https://api.github.com/repos/netyouli/WHC_TetrisGame,Objective-C,2019-08-03T14:15:18Z
+verilog-tetris,A Verilog implementation of the popular video game Tetris.,https://api.github.com/repos/rfotino/verilog-tetris,Verilog,2019-09-13T07:09:27Z
+Tetris-CSharp,A game of Tetris developed quickly as a WinForms application to prove that it is possible to do so.,https://api.github.com/repos/hayfield/Tetris-CSharp,C#,2018-09-14T09:49:43Z
+tty-tetris,A simple tetris game wrote in C. (without ncurses),https://api.github.com/repos/xorg62/tty-tetris,C,2019-08-13T13:50:00Z
+Tetris,俄罗斯方块小游戏,https://api.github.com/repos/huzhongcaijia/Tetris,C++,2019-07-08T10:02:41Z
+tetris-terminal,Tetris in terminal (Python 3),https://api.github.com/repos/shkolovy/tetris-terminal,Python,2019-09-07T18:07:22Z
+Brick-Game-9999-in-1,,https://api.github.com/repos/vitalibo/Brick-Game-9999-in-1,Java,2019-10-27T00:13:15Z
+tetris,,https://api.github.com/repos/mariadumont/tetris,Java,2019-10-16T17:21:12Z
+Tetris,A (incomplete) terminal Tetris. Written in Haskell.,https://api.github.com/repos/f4814/Tetris,Haskell,2019-04-13T20:55:42Z
+AndroidTetris,Android使用GridView实现简单的俄罗斯方块,https://api.github.com/repos/weijifen/AndroidTetris,Java,2019-10-21T09:50:55Z
+tetris,,https://api.github.com/repos/TigerhawkT3/tetris,Python,2019-04-01T18:02:57Z
+tetris-battle,Tetris Battle made with Python and Pygame,https://api.github.com/repos/xuyuwei/tetris-battle,Python,2019-07-10T14:37:35Z
+tetris,A simple tetris made in Unity,https://api.github.com/repos/ryukinix/tetris,C#,2019-08-04T22:17:21Z
+asw-tetris,"A Scalable Web Tetris, rendered with Canvas2D & WebGL with three.js, that use HTML5 to provide a simple way to explore the possibilities of current technologies (2d, 3d, music, touch, etc.)",https://api.github.com/repos/jbouny/asw-tetris,JavaScript,2019-03-24T00:03:01Z
+Tetris-PebbleTime,Tetris for the Pebble Time watch.,https://api.github.com/repos/WRansohoff/Tetris-PebbleTime,C,2018-09-16T20:33:43Z
+ConsoleTetris,C语言控制台彩色俄罗斯方块,https://api.github.com/repos/zq1997/ConsoleTetris,C,2019-09-04T04:25:16Z
+React-Tetris,React版俄罗斯方块,https://api.github.com/repos/mmillet/React-Tetris,JavaScript,2017-10-06T08:01:58Z
+gym-tetris,An OpenAI Gym interface to Tetris on the NES.,https://api.github.com/repos/Kautenja/gym-tetris,Python,2019-09-14T10:50:48Z
+Tetrissing,👾  Tetris in Processing,https://api.github.com/repos/asalga/Tetrissing,JavaScript,2018-11-20T03:28:59Z
+Jetris,A simple tetris clone for android.,https://api.github.com/repos/tpcstld/Jetris,Java,2017-09-01T15:55:41Z
+tetris-is-no-game,Tetris is serious matter.,https://api.github.com/repos/felsenhower/tetris-is-no-game,TeX,2019-07-21T22:35:52Z
+Nand2Tetris,My solutions to the computer science course NAND to Tetris,https://api.github.com/repos/timlhenderson/Nand2Tetris,Assembly,2019-08-09T12:24:21Z
+Tetris_Remake,Simple template for a 3D Tetris remake,https://api.github.com/repos/tomgsx/Tetris_Remake,C#,2015-08-09T09:11:14Z
+Tetris,Tetris game to playaround with SpriteKit.,https://api.github.com/repos/hanjoes/Tetris,Swift,2019-02-17T19:25:01Z
+hs-nand2tetris,,https://api.github.com/repos/zachallaun/hs-nand2tetris,Python,2019-08-26T08:01:45Z
+cl-tetris3d,Yet another 3D Tetris clone,https://api.github.com/repos/grouzen/cl-tetris3d,Common Lisp,2019-03-31T17:27:53Z
+tetris-2player,,https://api.github.com/repos/meth-meth-method/tetris-2player,JavaScript,2019-08-17T14:28:16Z
+BeaverTetris,,https://api.github.com/repos/darkwind666/BeaverTetris,C++,2019-01-18T12:26:00Z
+Tetris,A game of Tetris implemented in java. Only this one comes with a brain of its own.,https://api.github.com/repos/harshpai/Tetris,Java,2018-02-10T02:28:14Z
+Tetris,Clone do Jogo Tetris em AdvPL,https://api.github.com/repos/siga0984/Tetris,,2017-06-27T02:56:46Z
+massivetris-nodeKo,Massive Multiplayer Tetris Game. NodeKO 2010 Entry.,https://api.github.com/repos/michalbe/massivetris-nodeKo,JavaScript,2019-08-13T14:36:02Z
+tetris-demo,A Tetris example written in Rust using Piston in under 500 lines of code,https://api.github.com/repos/da-x/tetris-demo,Rust,2019-08-25T10:49:42Z
+mobx-react-tetris,,https://api.github.com/repos/1984weed/mobx-react-tetris,JavaScript,2019-06-11T05:19:20Z
+tetris_ai_runner,"not special , just very very fast !",https://api.github.com/repos/TetrisAI/tetris_ai_runner,C++,2019-04-25T15:46:19Z
+tetris,Tetris Game. (俄罗斯方块),https://api.github.com/repos/capricorncd/tetris,TypeScript,2019-06-14T03:01:37Z
+tetris,Source code from the video How to Write Tetris in C++ and SDL2,https://api.github.com/repos/mika314/tetris,C++,2019-06-26T12:00:56Z
+tetris-rb,,https://api.github.com/repos/daichirata/tetris-rb,Ruby,2019-08-13T15:05:00Z
+Tetris-Bot,,https://api.github.com/repos/MythicManiac/Tetris-Bot,Python,2019-01-26T14:42:52Z
+tetris-464,"A stripped down Tetris clone for the C=64 (no points, no levels, no nothing, except the bare block falling, controlling and colliding mechanism), in about a KLOC of 6502 assembly.",https://api.github.com/repos/cjauvin/tetris-464,Assembly,2019-10-21T05:19:28Z
+tetris,Tetris clone in JS/Canvas,https://api.github.com/repos/codingcampbell/tetris,JavaScript,2018-09-25T02:30:17Z
+VGS-Tetris,Simple 2D Tetris Game in Unity,https://api.github.com/repos/Veritas83/VGS-Tetris,C#,2019-04-09T14:28:50Z
+feztris,Video game experiment inspired by Fez's camera mechanic and puzzle games like Tetris.,https://api.github.com/repos/chadpaulson/feztris,C#,2019-10-06T08:17:41Z
+TetroVaders,"A simple Space Invaders game combined with some Tetris mechanics, built with Vanilla JavaScript",https://api.github.com/repos/fahadhaidari/TetroVaders,JavaScript,2019-07-31T18:05:58Z
+nand2tetris,Elements of Computing Systems Project,https://api.github.com/repos/kmanzana/nand2tetris,Assembly,2019-04-18T03:07:53Z
+java-tetris,,https://api.github.com/repos/kpirkkal/java-tetris,Java,2019-06-08T06:23:52Z
+vue-tetris,使用vue实现的俄罗斯方块游戏,https://api.github.com/repos/lewis-geek/vue-tetris,Vue,2019-06-26T10:40:12Z
+tetris,,https://api.github.com/repos/nickarora/tetris,JavaScript,2019-05-15T10:05:41Z
+fretris-mentoring,"Multiplayer Tetris (for mentoring purposes), built w/ React & Node.js",https://api.github.com/repos/adrianplavka/fretris-mentoring,TypeScript,2019-03-06T14:46:10Z
+nand2tetris,,https://api.github.com/repos/renlijie/nand2tetris,Java,2019-10-07T12:56:51Z
+WeirdTetris,Tetris with noncontiguous tetrominos,https://api.github.com/repos/BlaiseRitchie/WeirdTetris,C++,2016-11-18T22:05:34Z
+Tetris,Tetris game in unity3D for Android,https://api.github.com/repos/MaciejKitowski/Tetris,C#,2018-08-09T12:32:45Z
+nand2tetris,"Notes and links for our NAND2Tetris study group, for the free intro to computer science course (http://nand2tetris.org/)",https://api.github.com/repos/LearnTeachCode/nand2tetris,,2019-10-23T18:57:59Z
+Tetris-Bot,bot for the tetris game at http://www.freetetris.org/,https://api.github.com/repos/fazzone/Tetris-Bot,Java,2017-07-25T23:48:42Z
+ASIC-FPGA-tetris,a FPGA implementation for tetris game.,https://api.github.com/repos/tinylic/ASIC-FPGA-tetris,Verilog,2019-02-12T03:57:35Z
+utetris,Custom Mootools web version of famouse Tetris game.,https://api.github.com/repos/joseluisq/utetris,JavaScript,2019-01-07T21:31:21Z
+Tetris,Tetris ai  俄罗斯方块 ai ,https://api.github.com/repos/zengdexing/Tetris,HTML,2018-10-13T19:52:00Z
+nand2tetris,『コンピュータシステムの理論と実装』演習問題の回答・メモ,https://api.github.com/repos/ikenox/nand2tetris,Python,2019-10-21T16:04:56Z
+nand2tetris,nand2tetris problems,https://api.github.com/repos/seungjulee/nand2tetris,Assembly,2019-02-06T22:44:41Z
+LEDTetrisTie,A fun necktie with a classic video game twist! http://www.billporter.info/2013/06/21/led-tetris-tie/,https://api.github.com/repos/madsci1016/LEDTetrisTie,C++,2019-08-28T12:31:33Z
+myTetris-1,used cocos2d-x 在t_childBlockArray删除的时候可能存在bug未测试,https://api.github.com/repos/backjy/myTetris-1,C++,2018-12-29T03:43:32Z
+tetris,a tetris clone written in python,https://api.github.com/repos/kgleason/tetris,Python,2017-04-11T21:11:12Z
+PixiTetris,A simple Tetris game with Pixi.js,https://api.github.com/repos/BenjaminBini/PixiTetris,CSS,2019-07-17T13:39:34Z
+tetris-phaser,A phaser based version of Tetris,https://api.github.com/repos/thrabchak/tetris-phaser,JavaScript,2019-04-29T21:40:14Z
+TddTetris,Tetris voor het Technisch Testen-traject,https://api.github.com/repos/RogaDanar/TddTetris,C#,2016-05-24T11:23:53Z
+TetrisView,A beautiful UI gem that displays view composites in a box/tetris shape adding some magic with a tasteful curve all around,https://api.github.com/repos/54LiNKeR/TetrisView,Java,2019-10-16T16:29:34Z
+tetris-impact,A Tetris game that uses the Impact.js game engine written in JavaScript,https://api.github.com/repos/cmaas/tetris-impact,JavaScript,2019-06-12T09:20:34Z
+Tetris,俄罗斯方块游戏，利用electron方式来写node.js桌面程序，提供一个非传统方法（大数组记录“棋局”）来进行“棋局”控制，最终目的是想做一个聪明的机器人，它玩俄罗斯方块能比我强，呵呵！,https://api.github.com/repos/zhoutk/Tetris,JavaScript,2019-10-19T05:12:33Z
+Tetris-Player,Plays Tetris,https://api.github.com/repos/CS3243-AY1718S2-13/Tetris-Player,Java,2018-04-19T05:23:32Z
+red_tetris_boilerplate,,https://api.github.com/repos/redpelicans/red_tetris_boilerplate,JavaScript,2019-04-26T15:34:23Z
+Tetris,[Android & Java] Tetris block game,https://api.github.com/repos/DonggeunJung/Tetris,Java,2019-05-02T07:46:19Z
+crack-attack,Crack Attack! is a fast-paced puzzle game inspired by the classic Super NES title Tetris Attack!,https://api.github.com/repos/gnu-lorien/crack-attack,C++,2019-08-13T13:21:40Z
+tetrefis,Tetris as an EFI application,https://api.github.com/repos/tsani/tetrefis,C,2019-08-14T04:28:36Z
+tetris-js,Tetris by Javascript,https://api.github.com/repos/mootoh/tetris-js,JavaScript,2015-01-12T06:52:25Z
+M5Stack-Tetris,Tetris for M5Stack,https://api.github.com/repos/PartsandCircuits/M5Stack-Tetris,C,2019-06-11T14:51:43Z
+Amazing-Tetris,Android Tetris game made as final project for the Udacity's Android course,https://api.github.com/repos/scipianus/Amazing-Tetris,Java,2019-03-27T11:55:59Z
+Tetris.jl,"you know, for kids? 👾",https://api.github.com/repos/djsegal/Tetris.jl,Julia,2019-04-03T10:46:09Z
+tetris,tetris俄罗斯方块C语言,https://api.github.com/repos/ArvinZhangX/tetris,C,2019-10-02T06:49:03Z
+TPJ-Tetris,,https://api.github.com/repos/ambs/TPJ-Tetris,C#,2015-06-26T13:13:58Z
+cljs-tetris,A Tetris clone written in ClojureScript + core.async,https://api.github.com/repos/jarohen/cljs-tetris,Clojure,2015-07-20T20:15:00Z
+toohardforyou,"2H4U, which stands for Too Hard For You, is a mix between a Tetris-like game and a wall breaker.",https://api.github.com/repos/pyricau/toohardforyou,Java,2019-10-27T16:58:07Z
+machine-learning-tetris,,https://api.github.com/repos/scuriosity/machine-learning-tetris,Python,2019-09-29T00:48:37Z
+TeDiGe-2,An online Tetris Diagram Generator. Rewrite from Tetris-Diagram-Generator,https://api.github.com/repos/PetitPrince/TeDiGe-2,JavaScript,2018-12-06T07:04:55Z
+sdl_tetris,A tetris implementation using SDL,https://api.github.com/repos/jarodl/sdl_tetris,C++,2018-12-09T13:07:55Z
+Tetris,HTML 5 canvas game ,https://api.github.com/repos/ambar/Tetris,JavaScript,2018-06-18T07:31:51Z
+tetris-game,:video_game: Tetris game in Java Swing,https://api.github.com/repos/prachi1210/tetris-game,Java,2019-01-19T23:40:52Z
+SelfSizingWaterfallCollectionViewLayout,☠️ SelfSizingWaterfallCollectionViewLayout is a UICollectionViewLayout subclass that organizes items of dynamic height into a grid of variable columns (as if you're winning at Tetris upside-down). Designed for use alongside AutoLayout and iOS8 self-sizing cell technologies.,https://api.github.com/repos/adamwaite/SelfSizingWaterfallCollectionViewLayout,Objective-C,2019-03-28T15:27:46Z
+tetris-redux-app,Tetris built with React and Redux,https://api.github.com/repos/soggybag/tetris-redux-app,JavaScript,2019-10-08T17:08:18Z
+HTML5-Tetris,tetris made using the html5 canvas,https://api.github.com/repos/roopunk/HTML5-Tetris,HTML,2017-05-23T13:43:44Z
+nand2tetris,Nand2Tetris course solutions,https://api.github.com/repos/sake92/nand2tetris,Scala,2019-10-15T17:11:49Z
+love-tetris,Tetris made with LÖVE 2D,https://api.github.com/repos/MrSmith33/love-tetris,Lua,2019-09-06T00:44:10Z
+reactris,A simple tetris implementation as a React component,https://api.github.com/repos/jmorrell/reactris,JavaScript,2018-05-12T21:30:46Z
+blessed-tetris,quick and dirty telnet tetris clone,https://api.github.com/repos/kirjavascript/blessed-tetris,JavaScript,2019-09-22T22:45:59Z
+terminal-tetris,"tetris written in C for linux terminal, featuring top notch ASCII graphics based on the original tetris game",https://api.github.com/repos/anthepro/terminal-tetris,C,2019-09-29T14:15:05Z
+tetris-attack-js,An open-source implementation of the old SNES game Tetris Attack (Panel de Pon). ,https://api.github.com/repos/tzwaan/tetris-attack-js,JavaScript,2019-01-31T03:24:39Z
+Tetris,用纯C++在控制台写的俄罗斯方块,https://api.github.com/repos/Guozhi-explore/Tetris,C++,2019-08-27T08:48:21Z
+tetris-html5,Tetris implemented in HTML5,https://api.github.com/repos/clee704/tetris-html5,JavaScript,2019-04-19T08:58:31Z
+tetris,一个Java语言写的俄罗斯方块小游戏。因为作者刚接触Java，正在摸索着学习，代码并非原创，而是跟着别人学习。,https://api.github.com/repos/hurley25/tetris,Java,2018-08-31T02:25:04Z
+tetris-mobx,A React / MobX implementation of the Tetris game.,https://api.github.com/repos/cyan33/tetris-mobx,JavaScript,2018-09-22T04:20:50Z
+project_cli_tetris,rack 'em and stack 'em!,https://api.github.com/repos/vikingeducation/project_cli_tetris,,2016-01-02T20:44:40Z
+Tetris,Tetris - in Assembly Language,https://api.github.com/repos/hyuko21/Tetris,Assembly,2019-01-26T20:04:18Z
+Tetris-Titanium,An SVG/javascript implementation of tetris running on Titanium,https://api.github.com/repos/rvanmelle/Tetris-Titanium,JavaScript,2019-05-08T14:34:41Z
+Tetris,,https://api.github.com/repos/antakij1/Tetris,Python,2018-11-09T22:06:57Z
+Tetriz,Unity 2D Tetris Game,https://api.github.com/repos/thejpgarcia/Tetriz,C#,2015-09-17T15:17:03Z
+Reverse-Engineering-the-GameBoy-Tetris,This is my personal attempt on reverse engineering the Tetris gameboy.,https://api.github.com/repos/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris,Shell,2019-10-26T21:44:49Z
+fourblock,tetris,https://api.github.com/repos/youngnh/fourblock,JavaScript,2019-08-13T13:40:48Z
+TypeScript-Vue-Tetris,TypeScript-Vue-Tetris,https://api.github.com/repos/pione30/TypeScript-Vue-Tetris,TypeScript,2019-07-12T12:02:24Z
+nand2tetris,,https://api.github.com/repos/AaronRandall/nand2tetris,Assembly,2019-09-04T15:49:42Z
+TetrisJS,This is the classic game of Tetris written in pure HTML,https://api.github.com/repos/nbarkhina/TetrisJS,TypeScript,2019-10-25T02:45:03Z
+tetris,俄罗斯方块,https://api.github.com/repos/flfwzgl/tetris,JavaScript,2019-05-17T13:25:02Z
+go-tetris,A simple Tetris game written in Go/OpenGL,https://api.github.com/repos/medvednikov/go-tetris,Go,2019-10-21T00:18:33Z
+Artris-iOS-app,IOS app repository for multiplayer tetris ar game created at hack the north 2017,https://api.github.com/repos/Artris/Artris-iOS-app,Swift,2019-01-03T02:10:53Z
+Hi-Way,Our game about cars and tetris^_^,https://api.github.com/repos/marifox/Hi-Way,C++,2015-06-21T21:15:42Z
+react-game-tetris,"The interpretation of the classic game ""Tetris"" in React+Redux",https://api.github.com/repos/avin/react-game-tetris,JavaScript,2019-07-17T18:09:20Z
+jsTetrisGameJs,Tetris clone with HTML5 canvas / javascript - i really like Tetris :-),https://api.github.com/repos/DaRaFF/jsTetrisGameJs,JavaScript,2019-02-18T05:56:00Z
+otetris,OCaml Tetris,https://api.github.com/repos/vzaliva/otetris,OCaml,2019-05-08T16:23:45Z
+xultris,Xultris is a variant of the computer game classic Tetris. ,https://api.github.com/repos/mackers/xultris,JavaScript,2018-11-13T20:30:23Z
+TetrisSpaceX,,https://api.github.com/repos/bitluni/TetrisSpaceX,Objective-C,2019-04-06T12:37:47Z
+code_tetris,Write JavaScript code by playing Tetris: Game Interaction Experiment,https://api.github.com/repos/jpospychala/code_tetris,JavaScript,2017-09-05T21:01:53Z
+bottomless-block-barrage,Panel de Pon (Tetris Attack) clone for the 3ds.,https://api.github.com/repos/TricksterGuy/bottomless-block-barrage,C++,2019-01-11T11:59:34Z
+tetris,"Here is my tetris game implementation, hosted at htmltetris.com",https://api.github.com/repos/unphased/tetris,JavaScript,2019-03-14T13:40:33Z
+tetris-servers,,https://api.github.com/repos/tdd-elevator-training/tetris-servers,C++,2018-03-06T21:30:14Z
+tetrs,"Tetris, written in Rust.",https://api.github.com/repos/simon-whitehead/tetrs,Rust,2019-08-12T20:48:00Z
+Polytech.cs.2017.SpringProject,tetris,https://api.github.com/repos/alievilya/Polytech.cs.2017.SpringProject,C,2017-05-03T10:03:22Z
+lovetris,Tetris styled game made in Love2D,https://api.github.com/repos/TeamCerealCode/lovetris,Lua,2018-11-02T17:12:21Z
+Tetris,make tetris by C Language,https://api.github.com/repos/curaai00/Tetris,C,2017-03-29T04:20:04Z
+tetrisics3u4u1617,Class created Tetris style game.,https://api.github.com/repos/IanMcT/tetrisics3u4u1617,Python,2016-12-01T13:30:26Z
+Swiftiris,Tetris clone made in Swift,https://api.github.com/repos/xasos/Swiftiris,Swift,2017-03-10T16:00:35Z
+Falling-Blocks,"A tetris style game, cos everybody makes one :) Made with Ruby and Gosu",https://api.github.com/repos/PhilCK/Falling-Blocks,Ruby,2015-05-19T20:19:50Z
+JStet,a tetris clone in canvas and javascript,https://api.github.com/repos/kiba/JStet,JavaScript,2013-11-27T04:13:09Z
+nand-2-tetris,nand to tetris project,https://api.github.com/repos/akmcc/nand-2-tetris,Scilab,2017-12-07T23:43:41Z
+Tetris-OO,Tetris AdvPL Orientado a Objeto,https://api.github.com/repos/siga0984/Tetris-OO,,2017-06-27T02:57:17Z
+tetris-on-terminal,"Tetris game, CLI interface",https://api.github.com/repos/cdkrot/tetris-on-terminal,C++,2019-04-30T07:57:29Z
+JS-Tetris,SImple Tetris game with JavaScript,https://api.github.com/repos/davitpoghosyan87/JS-Tetris,HTML,2018-02-04T09:33:25Z
+TetrisForDesktopWithJava,tetris for desktop (OS : windows / IDE : Eclipse for Java Developers Luna version),https://api.github.com/repos/kkikkodev/TetrisForDesktopWithJava,Java,2017-01-01T15:52:28Z
+tetrisfox,The famous game Tetris for FirefoxOS (HTML5 Game),https://api.github.com/repos/robertopc/tetrisfox,JavaScript,2018-06-28T15:39:03Z
+Monaris,A simple tetris clone,https://api.github.com/repos/fumieval/Monaris,Haskell,2019-10-10T12:23:34Z
+Tetris,俄罗斯方块🇷🇺,https://api.github.com/repos/RoseOu/Tetris,Python,2019-09-03T10:04:19Z
+Tetris,,https://api.github.com/repos/deviant-studio/Tetris,Kotlin,2019-06-10T13:18:54Z
+nand2tetris,Nand2tetris course,https://api.github.com/repos/guptaanmol184/nand2tetris,Assembly,2019-10-26T19:57:27Z
+rm-tetris,A RubyMotion Tetris Clone,https://api.github.com/repos/integrallis/rm-tetris,Ruby,2014-11-12T08:23:18Z
+Tetris3D,Tetris3D as a school project.,https://api.github.com/repos/Ciechan/Tetris3D,Java,2017-06-01T11:27:14Z
+tetris-game,"Tetris is a tile-matching puzzle game for Firefox, Chrome, Opera, and Android",https://api.github.com/repos/schomery/tetris-game,JavaScript,2019-04-03T17:57:31Z
+tetris,ascii-art console tetris in C language,https://api.github.com/repos/ncarrier/tetris,C,2019-03-29T08:09:34Z
+termtris,Tetris for ANSI/VT220-compatible terminals,https://api.github.com/repos/jtsiomb/termtris,C,2019-10-06T10:52:01Z
+tetrisqueen,A Tetris clon with Queen music,https://api.github.com/repos/dacap/tetrisqueen,C,2019-03-23T02:52:45Z
+Tetris-Assembly-8086,The traditional tetris game implemented using x86 assembly language,https://api.github.com/repos/1405043-kd/Tetris-Assembly-8086,Assembly,2019-05-29T20:42:52Z
+tetrysics,"A small 3d, physics based Tetris-clone. Built in Unity3D.",https://api.github.com/repos/tpritc/tetrysics,C#,2016-01-28T22:57:44Z
+Tetris,,https://api.github.com/repos/agelessman/Tetris,Swift,2019-06-17T08:48:34Z
+tetris-term,Classic Tetris for your terminal.,https://api.github.com/repos/Gjum/tetris-term,C,2018-11-30T05:54:28Z
+TetrisClone,Canvas HTML5 Javascript Clone of Tetris - Currently In Progress,https://api.github.com/repos/sfrisk/TetrisClone,JavaScript,2016-06-14T18:14:42Z
+tetris-multiplayer,a simgle/multiplayer tetris game that runs on your terminal (Mac/Linux),https://api.github.com/repos/xzys/tetris-multiplayer,Python,2019-06-14T09:52:45Z
+go-tetris,Tetris implemented in Go using the ebiten engine.,https://api.github.com/repos/TheBakedPotato/go-tetris,Go,2019-06-13T06:32:12Z
+Tetris99Bot-C,Tetris99Bot的C++版本,https://api.github.com/repos/mk014/Tetris99Bot-C,C++,2019-10-17T07:50:49Z
+nand2tetris_projects,my nand2tetris homework ,https://api.github.com/repos/ccckmit/nand2tetris_projects,Assembly,2018-11-29T08:31:50Z
+nand2tetris,http://www.nand2tetris.org/,https://api.github.com/repos/benmoss/nand2tetris,Assembly,2016-11-30T05:52:10Z
+tetris,Tetris written in NuclearJS,https://api.github.com/repos/jordangarcia/tetris,CSS,2017-05-10T16:46:00Z
+retetris,Tetris made in ReasonML,https://api.github.com/repos/rdavison/retetris,OCaml,2019-10-02T21:04:03Z
+githubTutorial_ConsoleTetris,,https://api.github.com/repos/JJinIT/githubTutorial_ConsoleTetris,C++,2019-04-12T02:24:59Z
+mimstris,A falling block puzzle game created using React and Redux.,https://api.github.com/repos/mimshwright/mimstris,JavaScript,2019-09-19T00:19:17Z
+Tetrhythm,Tetris + rhythm !!!!!,https://api.github.com/repos/Oshiumi/Tetrhythm,C++,2015-09-19T02:57:58Z
+SpeedBlocks-server,Server for SpeedBlocks - fast paced tetris game,https://api.github.com/repos/kroyee/SpeedBlocks-server,C++,2019-06-19T08:15:01Z
+console-tetris,"A command line implementation of Tetris, written in Clojure.",https://api.github.com/repos/netb258/console-tetris,Clojure,2019-08-15T14:51:57Z
+tetrispuzzlesolver,Solves sigil puzzles found in The Talos Principle and Sigils of Elohim.,https://api.github.com/repos/adolfintel/tetrispuzzlesolver,Java,2019-09-18T21:00:18Z
+tetris,Re-ordering algorithm for structural sparsity in neural networks,https://api.github.com/repos/CRAFT-THU/tetris,Python,2019-04-15T03:55:03Z
+tetris,,https://api.github.com/repos/gold-mir/tetris,JavaScript,2018-04-02T20:58:17Z
+tetris,"Tetris game written in HTML5 + CSS3 + jQuery. This WebApp is a ""Responsive Web Design"" (RWD) website. ",https://api.github.com/repos/luciopanepinto/tetris,JavaScript,2018-11-26T20:22:21Z
+vim-nand2tetris-syntax,Vim syntax files for the ad-hoc languages in Nand2Tetris (Elements of Computing Systems),https://api.github.com/repos/sevko/vim-nand2tetris-syntax,Vim script,2019-08-23T15:21:11Z
+jetris,Jetris - A Java-Based Tetris Clone,https://api.github.com/repos/devng/jetris,Java,2019-04-07T16:40:49Z
+tetris-ai,🐒 Evolving Tetris AI based on genetic algorithms,https://api.github.com/repos/mzmousa/tetris-ai,JavaScript,2019-08-07T07:38:21Z
+Tetris,My first project using C++,https://api.github.com/repos/milon/Tetris,C++,2019-03-18T15:20:22Z
+Tetris,一个简单易用的俄罗斯方块模块,https://api.github.com/repos/ykaidong/Tetris,C,2019-02-13T15:53:15Z
+demo-phaser-tetris,Phaser Demo Game - Tetris,https://api.github.com/repos/nixsolutions/demo-phaser-tetris,JavaScript,2019-10-14T18:34:07Z
+Tetrjs,HTML5 Canvas-based Tetris driven by Object-Oriented Javascript,https://api.github.com/repos/jennazee/Tetrjs,JavaScript,2018-12-24T14:43:24Z
+tetris,Tetris in Smalltalk.,https://api.github.com/repos/paoloboschini/tetris,Smalltalk,2014-01-18T05:40:21Z
+vim-games,"vim games: tetris, sokoban and sudoku",https://api.github.com/repos/jmanoel7/vim-games,VimL,2018-09-14T04:44:23Z
+gotermtris,Tetris in Terminal,https://api.github.com/repos/rDybing/gotermtris,Go,2019-09-22T05:48:18Z
+GiantTetris,Melbourne Giant Tetris Build,https://api.github.com/repos/uberspaceguru/GiantTetris,Python,2014-09-20T14:58:23Z
+elm-tetris,"Tetris in the functional, front-end language, Elm",https://api.github.com/repos/ashishsc/elm-tetris,Elm,2018-11-29T07:51:12Z
+Tactris,Tetris-like game,https://api.github.com/repos/DonSinDRom/Tactris,JavaScript,2018-07-11T03:52:38Z
+Red-Tetris,":video_game:  Multiplayer Tetris game using node, react and redux",https://api.github.com/repos/Lcharvol/Red-Tetris,JavaScript,2019-05-05T21:21:30Z
+tetris-tutorial,Tutorial sobre como crear un clon del Tetris para Android / iOS usando Libgdx,https://api.github.com/repos/rubenjgarcia/tetris-tutorial,Groovy,2016-04-19T20:37:44Z
+tetris-allegro,Game in C++ made with Allegro library. Just another one Tetris.,https://api.github.com/repos/Lifka/tetris-allegro,C++,2019-10-23T09:18:34Z
+nand2tetris,my solutions for the nand2tetris course projects,https://api.github.com/repos/mmmries/nand2tetris,Assembly,2019-09-16T07:49:10Z
+Tetroggleable,DBC Final Project: Tetris action with Boggle words and Scrabble scoring,https://api.github.com/repos/woolly-bear-caterpillars-2014/Tetroggleable,JavaScript,2014-10-29T15:33:35Z
+gba-tetris,Tetris for the Game Boy Advance. Spring 2012.,https://api.github.com/repos/pstoica/gba-tetris,C,2019-08-30T16:59:58Z
+reversed-tetris,A innovative game with unique gameplay written in JavaScript,https://api.github.com/repos/chenghaoc/reversed-tetris,JavaScript,2019-07-15T22:54:32Z
+socket-tetris,:video_game: Control a Tetris using Socket.IO,https://api.github.com/repos/matiastucci/socket-tetris,JavaScript,2017-11-15T18:16:17Z
+Arduino-Tetris,Implementation of Tetris on Arduino using 8x8 led matrices and max72xx chips,https://api.github.com/repos/SeamusHarte/Arduino-Tetris,,2019-01-08T02:19:52Z
+Tetris,,https://api.github.com/repos/TranMinhNguyen/Tetris,Java,2017-03-06T05:06:12Z
+tetris-verilog,Verilog Tetris,https://api.github.com/repos/jeremycw/tetris-verilog,Verilog,2019-10-19T21:56:11Z
+dart-tetris,,https://api.github.com/repos/tensor-programming/dart-tetris,Dart,2019-09-28T11:15:29Z
+go-tetris,Golang Tetris for console window with optional AI,https://api.github.com/repos/MichaelS11/go-tetris,Go,2019-10-16T00:26:35Z
+Tetris,Tetris game unfinished,https://api.github.com/repos/saqibsaleem22/Tetris,Java,2019-10-09T11:40:40Z
+simple-tetris,Tetris in C using SDL,https://api.github.com/repos/cosarara/simple-tetris,C,2018-10-29T23:07:09Z
+arduino-tetris,Tetris for Arduino,https://api.github.com/repos/j0nas/arduino-tetris,Arduino,2018-04-20T01:01:02Z
+TetrisToLua,Basic Tetris implemented in ToLua.,https://api.github.com/repos/fvsfvs123/TetrisToLua,C#,2019-09-10T09:43:07Z
+Tetris,Tetris Unity Project Game,https://api.github.com/repos/ShockWave2048/Tetris,C#,2018-02-28T11:53:18Z
+myTetris,a simple cocos2d tetris game,https://api.github.com/repos/ludi1991/myTetris,C,2014-09-16T10:16:29Z
+arduino-tetris,a Tetris game for Arduino and a 32x32 LED matrix panel,https://api.github.com/repos/RomanSixty/arduino-tetris,C++,2019-05-02T20:39:48Z
+oberis,Tetris + Obelisk.js with Redux.,https://api.github.com/repos/kuy/oberis,JavaScript,2018-09-25T02:30:56Z
+rn-tetris,使用ReactNative开发的俄罗斯方块小游戏，支持Android与iOS。,https://api.github.com/repos/yubo725/rn-tetris,JavaScript,2019-08-05T20:05:06Z
+playing-mario-with-deep-reinforcement-learning,An implementation of (Double/Dueling) Deep-Q Learning to play Super Mario Bros.,https://api.github.com/repos/Kautenja/playing-mario-with-deep-reinforcement-learning,Jupyter Notebook,2019-10-08T06:55:57Z
+TetrisTeamProject,Tetris: 1st Team Project,https://api.github.com/repos/irrationnelle/TetrisTeamProject,Java,2016-10-11T04:43:54Z
+JsTetris,Classic tetris game on javascript,https://api.github.com/repos/moggiozzi/JsTetris,JavaScript,2017-12-30T17:37:22Z
+tetrisVI,multiplayer tetris for the g3d2,https://api.github.com/repos/2bt/tetrisVI,C,2016-10-12T21:00:30Z
+tetris-class,编程实践 - 网页版小游戏俄罗斯方块（Tetris）开发.,https://api.github.com/repos/typeerrorfeclass/tetris-class,JavaScript,2018-10-27T13:04:12Z
+rxjs-tetris,DOM based rxjs tetris,https://api.github.com/repos/bokuweb/rxjs-tetris,TypeScript,2019-04-28T18:33:21Z
+reinforcement-tetris,Using reinforcement learning and Keras to learn to play Tetris,https://api.github.com/repos/codekansas/reinforcement-tetris,Python,2019-04-03T23:50:25Z
+Nitris,Cross-platform Tetris-like game.,https://api.github.com/repos/Pygmalion69/Nitris,Java,2019-08-29T18:30:20Z
+tetris,Тетрис в 100 строк на C#,https://api.github.com/repos/Limpich/tetris,C#,2019-09-30T14:22:02Z
+TetrisGame,基于cocos2d-x 2.2.2 的俄罗斯方块,https://api.github.com/repos/irobbin1024/TetrisGame,Objective-C,2017-11-13T14:04:18Z
+libtetris,Example of Tetris in Clojure,https://api.github.com/repos/bonega/libtetris,Clojure,2019-05-12T22:21:38Z
+Tetris,A C implementation of Tetris using Pennsim through LC4,https://api.github.com/repos/dtrupenn/Tetris,Assembly,2019-07-11T11:33:45Z
+tetris-pieces,"A beautiful AI Tetris, playing on your wall!",https://api.github.com/repos/tholman/tetris-pieces,JavaScript,2019-10-17T19:38:20Z
+Huntris,Tetris developed with Modern JavaScript and HTML5 Canvas.,https://api.github.com/repos/CoderK/Huntris,JavaScript,2019-10-22T02:13:17Z
+simple-clojure-game,A clone of the game Tetris Attack in Clojurescript.,https://api.github.com/repos/jamiely/simple-clojure-game,JavaScript,2018-08-12T02:06:27Z
+Nand2Tetris-Games_and_Demos,A collection of my Nand2Tetris (Elements of Computing) games and demos.,https://api.github.com/repos/gav-/Nand2Tetris-Games_and_Demos,Python,2019-10-07T19:52:53Z
+Tetris,A java tetris clone based on tetris the grandmaster,https://api.github.com/repos/exal99/Tetris,Java,2019-01-07T11:28:54Z
+cs56-games-tetris,-,https://api.github.com/repos/ucsb-cs56-projects/cs56-games-tetris,Java,2017-10-15T23:15:00Z
+bootris,Bootsector Tetris Game,https://api.github.com/repos/dbittman/bootris,Assembly,2018-07-12T11:05:47Z
+tetris-android,,https://api.github.com/repos/maysam/tetris-android,Java,2013-12-19T13:01:45Z
+TetrisHaskellWeekend,A tiny Tetris written in Haskell.,https://api.github.com/repos/mgeorgoulopoulos/TetrisHaskellWeekend,Haskell,2019-07-23T12:54:04Z
+SimpleTetris,,https://api.github.com/repos/bingghost/SimpleTetris,Java,2019-10-08T14:57:08Z
+Console-Tetris,The classical Tetris game implemented as a C# console application,https://api.github.com/repos/MostafaEissa/Console-Tetris,C#,2019-02-04T14:50:28Z
+cocos2djs-tetris,tetris implemented using cocos2d-js,https://api.github.com/repos/ghostincircuit/cocos2djs-tetris,JavaScript,2015-04-29T12:02:26Z
+nand2tetris,"Answers to projects 6, 7, and 8 of nand2tetris.",https://api.github.com/repos/rose/nand2tetris,Python,2018-01-14T07:35:31Z
+fpga_tetris,:video_game: Tetris game using Verilog HDL and FPGA.,https://api.github.com/repos/NigoroJr/fpga_tetris,Verilog,2019-09-12T13:17:34Z
+pyTetris,Tetris for python,https://api.github.com/repos/hrpan/pyTetris,Python,2019-10-08T11:57:01Z
+JSPDP,JavaScript Tetris Attack Play it here → http://brandon-lockaby.github.io/JSPDP/,https://api.github.com/repos/brandon-lockaby/JSPDP,JavaScript,2019-04-13T23:40:53Z
+TetrisBot,Tetris Bot for tetris battle games,https://api.github.com/repos/natzcam/TetrisBot,Java,2019-10-03T01:13:57Z
+PPT-BoardEditor,Board and Queue Editor for Puyo Puyo Tetris,https://api.github.com/repos/mat1jaczyyy/PPT-BoardEditor,C#,2019-08-13T00:52:43Z
+pixtris,Tetris with pixi.js,https://api.github.com/repos/ajur/pixtris,JavaScript,2018-01-31T13:34:41Z
+mumtris,Tetris in MUMPS (GT.M),https://api.github.com/repos/pkoper/mumtris,Objective-C,2019-04-12T05:59:10Z
+polyomino,"Stuff relating to polyominoes, aka Tetris/Blokus pieces.",https://api.github.com/repos/tesseralis/polyomino,Python,2019-09-07T15:24:28Z
+tetris-clock,Tetris Clock,https://api.github.com/repos/longlho/tetris-clock,JavaScript,2018-09-26T01:15:58Z
+Tetris,This is a Tetris game developed with C ++ and OpenGL,https://api.github.com/repos/FilipeChagasDev/Tetris,C++,2019-09-26T13:54:38Z
+Tetris3.0,zespół 4,https://api.github.com/repos/MrozuMC/Tetris3.0,ASP,2017-05-15T14:18:10Z
+tetris,A simple tetris game written in JavaScript,https://api.github.com/repos/slavsan/tetris,JavaScript,2017-11-11T21:10:58Z
+Tetris-Diagram-Generator,A Tetris diagram generator,https://api.github.com/repos/PetitPrince/Tetris-Diagram-Generator,JavaScript,2013-10-29T23:54:15Z
+Tetris-game,It's Tetris game.,https://api.github.com/repos/OOP-PRACTICE/Tetris-game,C++,2016-11-04T13:36:39Z
+golang-tetris,A Tetris game written in Go using the faiface/pixel 2D game engine.,https://api.github.com/repos/zkry/golang-tetris,Go,2019-09-06T07:23:59Z
+TetrisMina,A fork of the TetrisMina Project ,https://api.github.com/repos/jptiancai/TetrisMina,Java,2019-07-15T07:27:40Z
+RustTetris,Tetris Made in Rust and SDL2,https://api.github.com/repos/camccar/RustTetris,Rust,2019-10-26T08:22:14Z
+ArduinoTermTetris,Arduino Tetris for Terminals,https://api.github.com/repos/dadecoza/ArduinoTermTetris,Arduino,2016-12-02T03:25:00Z
+LED8x16tetris,an 8x16 WS2811 LED tetris game,https://api.github.com/repos/MarginallyClever/LED8x16tetris,Arduino,2018-02-28T14:04:40Z
+lambdalumps,Tetris clone with Haskell,https://api.github.com/repos/SolviQorda/lambdalumps,Haskell,2019-07-05T13:56:09Z
+nand2tetris,Projects from 'The Elements of Computing Systems',https://api.github.com/repos/benvenutti/nand2tetris,C++,2018-12-15T14:02:45Z
+js1k-tetris-analysis,Analysis of the js1k tetris game,https://api.github.com/repos/fjakobs/js1k-tetris-analysis,JavaScript,2014-09-12T03:23:16Z
+Flip-Dot-Display,"Flip-Dot display reverse engineering, DIY adapter board, Tetris game.",https://api.github.com/repos/sintech/Flip-Dot-Display,C,2019-10-20T20:24:21Z
+nand2tetris,My solutions to the projects in The Elements of Computing Systems,https://api.github.com/repos/jtdowney/nand2tetris,Assembly,2019-09-01T09:41:39Z
+tinypc,A miniature gaming PC / laptop,https://api.github.com/repos/PaulKlinger/tinypc,C,2019-10-02T18:28:34Z
+TetrisGodot,Simple Tetris game made with Godot,https://api.github.com/repos/yichen0831/TetrisGodot,GDScript,2018-07-09T06:51:20Z
+Blocks,A tetris  game for learn cocos2dx,https://api.github.com/repos/hitlolo/Blocks,C++,2018-11-28T04:28:20Z
+TETRIS,,https://api.github.com/repos/JavaProjectTetris/TETRIS,Java,2018-12-01T13:37:55Z
+tetris_game,테트리스,https://api.github.com/repos/parkseulkee/tetris_game,C++,2019-06-10T03:29:19Z
+Cubic-The-Game,Fast-paced puzzle game that combines the quick shape matching of Tetris with addictive multiplayer elements.,https://api.github.com/repos/bwrsandman/Cubic-The-Game,C#,2018-03-25T16:44:02Z
+FSharpris,Tetris Clone in F#,https://api.github.com/repos/DieselMeister/FSharpris,F#,2019-06-17T14:28:44Z
+nand2tetris,"Курс Nand2Tetris в школе ""Интеллектуал""",https://api.github.com/repos/kharvd/nand2tetris,Python,2018-02-03T13:30:47Z
+tetris,,https://api.github.com/repos/paulDop/tetris,Java,2017-12-26T07:49:08Z
+ngx-tetris,angular tetris component,https://api.github.com/repos/chrum/ngx-tetris,TypeScript,2019-10-20T16:40:38Z
+tetris-terminal-game,Tetris Clone.  Runs in terminal.  Implemented in Python using ncurses library.,https://api.github.com/repos/epai/tetris-terminal-game,Python,2019-04-19T05:27:03Z
+taus,Tetris - Actually Useful Statistics,https://api.github.com/repos/ejona86/taus,Assembly,2019-10-27T01:57:49Z
+tetran,Tetris-style game written in FORTRAN-95,https://api.github.com/repos/lewisjb/tetran,Fortran,2018-04-04T03:15:04Z
+tetris,,https://api.github.com/repos/meshy/tetris,Python,2019-02-03T15:26:35Z
+Tetris,Repo for the 2014 GE Case Study,https://api.github.com/repos/abernardi597/Tetris,Java,2017-05-02T18:53:08Z
+AngularJS-Tetris,Nominated for Codeproject.com Best Web Dev Article of October 2017,https://api.github.com/repos/TheoKand/AngularJS-Tetris,JavaScript,2019-04-24T15:44:54Z
+pytris,Python Tetris for teaching students,https://api.github.com/repos/daehahn/pytris,Python,2019-07-21T05:23:15Z
+SFMLTetris,C++ Tetris clone in sfml,https://api.github.com/repos/kmiron/SFMLTetris,HTML,2019-04-26T09:24:57Z
+Git-Formation-Tetris,,https://api.github.com/repos/ebouilhol/Git-Formation-Tetris,Java,2015-02-17T16:20:40Z
+tetris-react,"Develop classic tetris game in react using hooks, ",https://api.github.com/repos/goodwillsandy/tetris-react,JavaScript,2019-10-02T04:17:19Z
+tetris1,Game of tetris in the terminal (implemented in Rust),https://api.github.com/repos/jankes/tetris1,Rust,2017-05-17T04:58:17Z
+BeNetTris,BeNetTris is a Tetris client and server.,https://api.github.com/repos/HaikuArchives/BeNetTris,C++,2018-11-18T18:39:06Z
+tetris-js,A tetris game in JavaScript.,https://api.github.com/repos/simon-tiger/tetris-js,JavaScript,2019-06-05T03:20:49Z
+CMU.16899.HW1,Reinforcement Learning: Cross-Entropy and Reinforce Algorithms applied to Tetris,https://api.github.com/repos/danielribeirosilva/CMU.16899.HW1,Java,2018-03-06T01:42:48Z
+3J-class-project,Ecoris -the 3D puzzle game-,https://api.github.com/repos/13J-Programmers/3J-class-project,C#,2019-06-10T17:43:49Z
+tetris-ai,Tetris Clone for AI experiments,https://api.github.com/repos/wichtounet/tetris-ai,Java,2018-04-22T01:56:05Z
+tetris,Tetris in go,https://api.github.com/repos/c0nrad/tetris,Go,2019-06-13T06:36:57Z
+ArduinoTetris,Classic Tetris game running on an Arduino-compatible MicroView.,https://api.github.com/repos/rbirkby/ArduinoTetris,C++,2019-04-18T07:28:58Z
+Tetris-Agent,,https://api.github.com/repos/CS32431718SEM1-GP03/Tetris-Agent,Java,2018-04-21T12:08:30Z
+Tetris-Battle,single and multiplayer tetris with hold option,https://api.github.com/repos/sharky-jr/Tetris-Battle,Python,2019-05-27T16:47:53Z
+NandToTetris,This repository is about Nand to tetris game.This contains various chip or gate files.,https://api.github.com/repos/robustTechie/NandToTetris,,2019-10-18T03:25:35Z
+red-tetris,React - Socket.io - Node - Multiplayer Tetris Game,https://api.github.com/repos/cepalle/red-tetris,TypeScript,2019-10-01T15:17:37Z
+cc.Tetris,Simple game in ES6 and html5,https://api.github.com/repos/CaptainObjective/cc.Tetris,JavaScript,2019-01-13T22:31:05Z
+cletris,A Tetris game written in Common Lisp,https://api.github.com/repos/nlamirault/cletris,Common Lisp,2019-10-07T12:37:28Z
+twitter-plays-tetris,Community driven Tetris game played on Twitter,https://api.github.com/repos/dested/twitter-plays-tetris,TypeScript,2018-07-27T16:26:29Z
+Tetris.js,▦ A simple tetris with Javascript.,https://api.github.com/repos/umutozel/Tetris.js,,2018-05-31T08:54:22Z
+emris,3D TETRIS implementation in C++ (for Emscripten),https://api.github.com/repos/peta-okechan/emris,C++,2019-05-16T10:09:40Z
+cuhk-tetris,Tetris,https://api.github.com/repos/coolhongly/cuhk-tetris,Assembly,2017-05-16T10:21:46Z
+TetraPlus,Tetris clone with additional features and game modes made using Unity,https://api.github.com/repos/iliamosko/TetraPlus,C#,2019-10-12T00:36:58Z
+tetris,"Tetris game built with React.js, Flask & MongoDB",https://api.github.com/repos/mertkahyaoglu/tetris,JavaScript,2019-09-04T12:55:52Z
+TetrisPlayer,Java  program that uses a Prolog theory to play Tetris on an emulated gameboy.,https://api.github.com/repos/seanremy/TetrisPlayer,Prolog,2016-12-27T01:40:07Z
+ClassBlockGame,Tetris,https://api.github.com/repos/chobocho/ClassBlockGame,Java,2019-04-08T22:57:11Z
+CPE-Tetris,tetris,https://api.github.com/repos/guitar01/CPE-Tetris,Java,2016-12-13T19:45:45Z
+tetris,tetris,https://api.github.com/repos/guideX/tetris,Visual Basic,2013-12-01T09:55:17Z
+AndroidTetris,Create the simple game of Tetris in Android. Video: https://drive.google.com/open?id=0B1dZc_IwjaEhQnJWV2J5SG0yQWM,https://api.github.com/repos/nboneh/AndroidTetris,Java,2017-06-21T09:07:43Z
+Python_Tetris,python实现的俄罗斯方块小游戏,https://api.github.com/repos/yooongchun/Python_Tetris,Python,2018-12-10T04:55:14Z
+Tetris---Java,,https://api.github.com/repos/JoshuaHernandezMartinez/Tetris---Java,Java,2019-06-28T08:39:54Z
+Tetris,"Tetris in F#, dotnet core and MonoGame. Arcade sounds included!",https://api.github.com/repos/ChrisPritchard/Tetris,F#,2019-10-18T20:39:18Z
+Tetris,Tetris,https://api.github.com/repos/FourTree/Tetris,Java,2016-05-24T02:47:15Z
+Tetris,经典的俄罗斯方块游戏,https://api.github.com/repos/songbaoming/Tetris,C,2019-01-13T07:12:50Z
+tetris,tetris,https://api.github.com/repos/binghuan/tetris,JavaScript,2018-09-03T08:09:32Z
+IvoTetris,"A Simple Tetris Game, as I learn TypeScript & Angular",https://api.github.com/repos/ivailop7/IvoTetris,TypeScript,2019-09-07T11:39:57Z
+tetris-android,"My first awesome game. I write this game, when I was in 9 form :). This game only for android and  game not use libraries, only native java code!",https://api.github.com/repos/v-grishechko/tetris-android,Java,2019-07-09T22:48:08Z
+UnityAdaTetris,,https://api.github.com/repos/AdaCore/UnityAdaTetris,Ada,2018-05-10T20:08:39Z
+blockpuzzle,A tetris attack clone written in C# with OpenGL through OpenTK,https://api.github.com/repos/mitsuhiko/blockpuzzle,C#,2018-09-02T03:11:34Z
+ntust-software-engineering-tetris,,https://api.github.com/repos/leonw774/ntust-software-engineering-tetris,C#,2018-07-26T17:41:14Z
+javascript-tetris,,https://api.github.com/repos/stone0090/javascript-tetris,HTML,2018-07-12T16:23:55Z
+tetris,A small implementation of Tetris in Haskell,https://api.github.com/repos/melrief/tetris,Haskell,2018-12-27T15:38:47Z
+WxTetris,Tetris game done in WxWidgets,https://api.github.com/repos/jesus-ramos/WxTetris,C++,2019-02-07T23:13:41Z
+GoTetris,A simple Tetris game written in Go for fun and profit,https://api.github.com/repos/jphalimi/GoTetris,Go,2019-06-13T06:36:40Z
+tetris-vhdl,A bare-metal pure hardware implementation of the Tetris game for FPGA,https://api.github.com/repos/primiano/tetris-vhdl,VHDL,2018-04-21T15:25:48Z
+tetris,Implementation of Tetris in C.,https://api.github.com/repos/stuqdog/tetris,C,2019-09-18T19:42:03Z
+tetris-opengl,Tetris game in OpenGL.,https://api.github.com/repos/xhacker/tetris-opengl,C,2019-05-10T03:22:14Z
+tetris,Tetris Devcards experiment,https://api.github.com/repos/maio/tetris,Clojure,2018-04-29T22:01:09Z
+Tetris-SDL2,"A minimalist remake of the classic game Tetris using SDL2, now with AI. ",https://api.github.com/repos/anthemEdge/Tetris-SDL2,C++,2019-09-14T19:24:33Z
+Spacetris,Yet another Tetris game but this time written in .NET Core and SFML,https://api.github.com/repos/kubagdynia/Spacetris,C#,2019-08-04T03:07:34Z
+esp32_ST7735_Tetris,Tetris on esp32 and ST7735,https://api.github.com/repos/MhageGH/esp32_ST7735_Tetris,Objective-C,2019-03-14T17:18:27Z
+gbatris,Tetris for the GameBoy Advance,https://api.github.com/repos/jtsiomb/gbatris,C,2019-05-06T21:32:15Z
+PPT-Tools,Various tools for Puyo Puyo Tetris.,https://api.github.com/repos/mat1jaczyyy/PPT-Tools,C#,2019-08-12T20:35:46Z
+Tetris,Tetris built with React & Redux.,https://api.github.com/repos/wemmaling/Tetris,JavaScript,2019-02-19T11:44:59Z
+tetris-qt,Tetris clone in QT 5!!! Requires QT5 and QMake,https://api.github.com/repos/ioanmoldovan/tetris-qt,C++,2019-06-16T14:16:23Z
+geneural.net,Genetic algorithm to solve 3D Tetris.,https://api.github.com/repos/shaynair/geneural.net,JavaScript,2019-03-09T11:32:18Z
+Tetris-AI,My implementation of a Tetris AI,https://api.github.com/repos/KeithMcPherson/Tetris-AI,C,2018-07-26T04:16:03Z
+lspi-tetris-agent,Tetris Agent coded using the LSPI reinforcement learning algorithm,https://api.github.com/repos/shawntan/lspi-tetris-agent,Java,2019-04-02T08:08:03Z
+tinytris,Tetris in 256 bytes! (251 even ;)),https://api.github.com/repos/pellsson/tinytris,Assembly,2019-01-13T23:19:20Z
+jstetris,JS Tetris is a browser based clone of one of the greatest puzzle video games of all time,https://api.github.com/repos/cztomczak/jstetris,JavaScript,2019-07-30T16:27:39Z
+Tetris-Reinforcement-Learning-with-Python3-keras,Python3와 keras로 만드는 테트리스 강화학습 프로젝트입니다.,https://api.github.com/repos/lyzqm123/Tetris-Reinforcement-Learning-with-Python3-keras,Python,2019-04-10T16:46:13Z
+toothris,Smooth open-source Tetris clone with a few surprises.,https://api.github.com/repos/toothris/toothris,Python,2018-06-05T01:41:35Z
+lktris,Play Tetris in your phone's bootloader mode,https://api.github.com/repos/M1cha/lktris,C,2019-08-07T11:30:00Z
+TetrisProject,,https://api.github.com/repos/hiroya8649/TetrisProject,C#,2017-12-20T13:31:35Z
+httptris,tetris in the browser using ONLY basic html,https://api.github.com/repos/mafintosh/httptris,JavaScript,2019-05-31T00:47:09Z
+TetrisRemote,A little experiment using websockets : play HTML5 tetris using your mobile phone as a remote control,https://api.github.com/repos/leoht/TetrisRemote,PHP,2014-05-24T06:12:08Z
+sfinder-cpp,Tetris: Implement my solution-finder in C++,https://api.github.com/repos/knewjade/sfinder-cpp,C++,2019-10-26T07:15:15Z
+tetris-cpp,Standard Tetris in 3D using SDL and OpenGL written in C++,https://api.github.com/repos/matachi/tetris-cpp,C++,2019-08-30T17:00:03Z
+Tetris,Making a Tetris Game / AI for CF challenge,https://api.github.com/repos/Ludisposed/Tetris,Python,2019-07-16T08:25:13Z
+TETRIS,俄罗斯方块demo,https://api.github.com/repos/suidongyang/TETRIS,Objective-C,2019-07-17T02:36:02Z
+Java_Tetris_Game,"(포트폴리오) 자바 스윙, 멀티 스레드를 이용하여 만든 테트리스 게임",https://api.github.com/repos/Green037/Java_Tetris_Game,Java,2019-05-30T03:29:21Z
+tetris-lua,"A Tetris game implemented with love2d framework, in Lua.",https://api.github.com/repos/wolfgangjiang/tetris-lua,Lua,2019-03-12T18:05:40Z
+make-block-reloaded,Code for https://shop.heise.de/katalog/make-block-reloaded,https://api.github.com/repos/harbaum/make-block-reloaded,C++,2019-01-17T09:45:27Z
+nand2tetris,nand2tetris,https://api.github.com/repos/2017-SDCT-group1/nand2tetris,HTML,2017-06-26T16:29:52Z
+unity-project,tetris 2,https://api.github.com/repos/khs-unity-project/unity-project,C#,2019-03-27T14:59:14Z
+tetris,tetris clone!,https://api.github.com/repos/ttocs7/tetris,C#,2019-01-10T02:30:49Z
+consoletetris,tetris game in console,https://api.github.com/repos/RedXBeard/consoletetris,Python,2018-07-18T07:24:40Z
+nand2tetris,Elements of Computing Systems,https://api.github.com/repos/alexnhan/nand2tetris,C++,2019-04-13T07:46:14Z
+ocaml-tetris,Small tetris implementation using OCaml and Allegro,https://api.github.com/repos/martindemello/ocaml-tetris,OCaml,2019-01-14T12:32:53Z
+CubicTetris,A 3D Tetris Game in Unity,https://api.github.com/repos/CaviarChen/CubicTetris,C#,2019-09-27T13:22:22Z
+tetris-rl,Q-Learning to play Tetris,https://api.github.com/repos/awiss/tetris-rl,Python,2019-05-18T02:20:01Z
+it-duel-2016,IT duel 2016 at Anadea inc. Tetris!,https://api.github.com/repos/stokarenko/it-duel-2016,Ruby,2017-09-22T16:40:34Z
+tetris-writeup,A place to draft the answers for the tetris PPCG challenge,https://api.github.com/repos/QuestForTetris/tetris-writeup,,2019-09-02T18:45:12Z
+tetrisanalyzer,Tetris AI engine,https://api.github.com/repos/tengstrand/tetrisanalyzer,Java,2015-02-27T18:54:09Z
+tetris,,https://api.github.com/repos/liammclennan/tetris,JavaScript,2017-11-07T02:33:39Z
+intris,Yet another Tetris game.,https://api.github.com/repos/intris/intris,JavaScript,2017-04-01T00:41:48Z
+substrate-tetris,Tetris built on Substrate,https://api.github.com/repos/tomaka/substrate-tetris,Rust,2019-07-13T16:25:58Z
+retris,Emacs NES Tetris clone,https://api.github.com/repos/wasamasa/retris,Emacs Lisp,2018-12-11T18:33:11Z
+tetris,Tetris,https://api.github.com/repos/berk76/tetris,C,2019-09-15T19:24:42Z
+gnagy87,,https://api.github.com/repos/green-fox-academy/gnagy87,Java,2019-09-18T14:45:36Z
+Tetris,pygame tetris,https://api.github.com/repos/DrDrei/Tetris,Python,2017-05-23T02:00:58Z
+Tetris,,https://api.github.com/repos/gsingh93/Tetris,Eiffel,2014-01-21T12:18:15Z
+tetris,,https://api.github.com/repos/mamikk/tetris,C,2014-04-23T03:22:18Z
+tetris,A command line tetris game you can play in your terminal,https://api.github.com/repos/alexandrinaw/tetris,Python,2019-04-14T19:11:09Z
+omega-flowey-tetris,"First endless Sans, now this! Play some Tetris with Flowey!",https://api.github.com/repos/joezeng/omega-flowey-tetris,JavaScript,2018-10-18T03:04:11Z
+tetris-game-with-vue,A simple tetris game made with Vue.js,https://api.github.com/repos/Rolanddoda/tetris-game-with-vue,JavaScript,2019-06-11T14:34:18Z
+tetris,A javascript-based tetris game powered by django.,https://api.github.com/repos/Haverford-FIG/tetris,,2014-01-30T04:19:22Z
+tetris-consle,python 开发的俄罗斯方块 终端下运行,https://api.github.com/repos/haogefeifei/tetris-consle,Python,2018-09-19T13:46:33Z
+d3tetris,,https://api.github.com/repos/nsmirn0v/d3tetris,JavaScript,2018-04-09T11:43:40Z
+circle-tetris,A circular Tetris game developed in Javascript for the old and discontinued Firefox OS. Now completely ported to Android.,https://api.github.com/repos/guiherzog/circle-tetris,JavaScript,2018-02-11T10:58:41Z
+MisterToken,"A puzzle game inspired by Dr. Mario, Tetris, etc.",https://api.github.com/repos/bklimt/MisterToken,Objective-C,2015-08-09T23:41:26Z
+tetris-by-react-redux,A Tetris game built by react and redux,https://api.github.com/repos/xxhomey19/tetris-by-react-redux,JavaScript,2016-09-29T03:40:36Z
+Hell-Tetris,"Implementation of XKCD ""Hell"" tetris in HaXe",https://api.github.com/repos/banthar/Hell-Tetris,HaXe,2018-11-08T15:37:38Z
+unityecstetristest,Trying to make Tetris with Unity's ECS system,https://api.github.com/repos/sarkahn/unityecstetristest,C#,2019-10-14T06:41:53Z
+tetris,The classic NES Tetris built with hyperapp,https://api.github.com/repos/lukejacksonn/tetris,JavaScript,2019-07-27T20:53:55Z
+nand2tetris,[WIP] My coursework for Build a Modern Computer From First Principles: From Nand to Tetris,https://api.github.com/repos/m-cat/nand2tetris,C++,2019-09-24T09:52:56Z
+tint,TINT Is Not Tetris(tm) ...at least the name isn't,https://api.github.com/repos/DavidGriffith/tint,C,2019-06-07T00:25:38Z
+coffee-tetris,Tetris clone written in CoffeeScript,https://api.github.com/repos/naturalethic/coffee-tetris,JavaScript,2017-06-05T17:27:50Z
+FunkyTetris,"Functional programming & Tetris, funky stuff",https://api.github.com/repos/jamieday/FunkyTetris,F#,2019-01-29T13:35:34Z
+tetris,俄罗斯方块,https://api.github.com/repos/moonlightL/tetris,JavaScript,2018-11-29T06:53:11Z
+Tetris,,https://api.github.com/repos/jasonh54/Tetris,Processing,2019-08-31T19:01:16Z
+tetris,,https://api.github.com/repos/SnareChops/tetris,JavaScript,2015-03-21T16:55:27Z
+tetris,,https://api.github.com/repos/thecomputerguyjeff/tetris,,2019-02-24T17:50:12Z
+AlphaTetris,Tetris Game with AI,https://api.github.com/repos/longyangking/AlphaTetris,Python,2019-08-07T09:06:15Z
+tetris,Following the Elm Tetris Tutorial,https://api.github.com/repos/nelsonic/tetris,Elm,2017-10-08T00:59:19Z
+Tetris,"A GUI for the famous video game Tetris has been made in C++ using FLTK (Fast, Light Toolkit) graphics library",https://api.github.com/repos/chandramaloo/Tetris,C++,2019-06-16T06:05:58Z
+Tetris,It's Tetris ;),https://api.github.com/repos/jlblatt/Tetris,JavaScript,2018-12-29T08:55:57Z
+pic-tetris,Tetris Implementation for PIC18F4550,https://api.github.com/repos/ryukinix/pic-tetris,C,2019-03-10T22:27:22Z
+DeepLearningTetris,,https://api.github.com/repos/kciter/DeepLearningTetris,Python,2019-01-13T07:45:36Z
+tetris-cljs,Tetris in ClojureScript.,https://api.github.com/repos/temochka/tetris-cljs,Clojure,2019-07-29T13:01:41Z
+tetris,ncurses Tetris clone,https://api.github.com/repos/acgreek/tetris,C++,2018-09-08T09:05:48Z
+nct,New Colored Tetris,https://api.github.com/repos/lavv17/nct,C,2017-09-29T21:04:03Z
+tetris-ai,Simple tetris AI,https://api.github.com/repos/xuyuwei/tetris-ai,JavaScript,2018-07-26T04:16:52Z
+Tetris-Arduino-code-,Aurdino code for tetris ,https://api.github.com/repos/AbhinavRsharma/Tetris-Arduino-code-,,2019-04-29T17:04:58Z
+Tetris-Game,stm32 ile tetris oyunu,https://api.github.com/repos/TolRed/Tetris-Game,C,2019-01-05T17:20:52Z
+retris,Remotely playable tetris,https://api.github.com/repos/sarukuku/retris,TypeScript,2019-06-19T15:51:36Z
+tetris,Multiplayer lightweight tetris,https://api.github.com/repos/iZonex/tetris,Python,2019-10-13T18:36:22Z
+TetrisDiffingCompetition,"I'm sure your diffing library is great, but can you play Tetris with it?",https://api.github.com/repos/skagedal/TetrisDiffingCompetition,Swift,2019-07-03T17:03:04Z
+Pocket-Tetris,attiny85 pocket tetris,https://api.github.com/repos/afonsus1997/Pocket-Tetris,C++,2019-03-26T21:25:01Z
+Tetris,Tetris in haskell,https://api.github.com/repos/zenunomacedo/Tetris,Haskell,2019-05-16T13:40:10Z
+Tetris,Tetris C# Skarp programmering,https://api.github.com/repos/Coletejp/Tetris,,2015-03-03T17:17:28Z
+tetris,Tetris for OSSN,https://api.github.com/repos/ctlui/tetris,JavaScript,2015-08-14T05:20:47Z
+Java-Game,Tetris Java Game,https://api.github.com/repos/babygivenchy/Java-Game,Java,2018-06-08T07:00:09Z
+TetrisInspector,A useless window for Unity.,https://api.github.com/repos/RockyHong/TetrisInspector,C#,2019-03-05T22:46:41Z
+OberonCompiler,"An Oberon compiler for SPARC including lexer, parser, semantic checker, analyzer and optimizer + tetris game in oberon",https://api.github.com/repos/beghbali/OberonCompiler,C++,2019-08-24T04:12:18Z
+tetris,A Tetris AI.,https://api.github.com/repos/cmu-dsc/tetris,Python,2019-10-28T00:32:59Z
+Tetris,Tetris in UE4,https://api.github.com/repos/fengkan/Tetris,,2016-06-18T07:01:39Z
+tetresse,a Tetris practice tool,https://api.github.com/repos/fkatleader2/tetresse,JavaScript,2019-06-23T01:35:49Z
+tetris,,https://api.github.com/repos/senglese96/tetris,CSS,2019-10-09T19:56:23Z
+tetris_disassembly,Disassembly of Tetris (Gameboy),https://api.github.com/repos/alexsteb/tetris_disassembly,Assembly,2019-01-29T14:41:40Z
+Assembly-Tetris,x86 tasm assembly tetris,https://api.github.com/repos/Ethanb00/Assembly-Tetris,Assembly,2014-03-24T21:25:59Z
+2018-1-OSSP-2-6,OSSP-Tetris project,https://api.github.com/repos/CSID-DGU/2018-1-OSSP-2-6,Java,2018-06-26T12:50:46Z
+tetris,jrubyでテトリスを作る,https://api.github.com/repos/ore-public/tetris,Ruby,2016-12-11T09:22:35Z
+a-Tetris-game,a Tetris game,https://api.github.com/repos/tc018176/a-Tetris-game,,2013-10-31T01:22:20Z
+pygame-tetris,A simple tetris game written with PyGame,https://api.github.com/repos/dfkoh/pygame-tetris,Python,2018-03-11T00:26:50Z
+block-rain,Responsive Tetris game clone.,https://api.github.com/repos/gingeleski/block-rain,JavaScript,2017-06-04T00:33:51Z
+tetris,Tetris game for Android,https://api.github.com/repos/ccederstrom/tetris,Java,2019-01-28T00:07:04Z
+emorjis,Emoji Tetris 🐱🚪🐶🍂,https://api.github.com/repos/Knutakir/emorjis,JavaScript,2019-07-11T15:40:18Z
+tetris,tetris python tkinter,https://api.github.com/repos/elutecs/tetris,Python,2019-01-19T21:27:06Z
+go_tetris,Online tetris battle,https://api.github.com/repos/mifan/go_tetris,,2019-06-13T06:34:26Z
+TetrisOyunu,Tetris Oyunu,https://api.github.com/repos/dhmm/TetrisOyunu,C#,2019-05-20T06:52:31Z
+co-op-tetris,Play Tetris collaboratively with your friends.,https://api.github.com/repos/lukasolson/co-op-tetris,JavaScript,2019-10-17T17:46:55Z
+Tetris,Iphone Tetris,https://api.github.com/repos/stappoo/Tetris,JavaScript,2013-11-05T07:44:33Z
+tetrlang,an esoteric language inspired by Tetris,https://api.github.com/repos/athos/tetrlang,Clojure,2018-06-30T13:08:07Z
+tetris_clone,a plain Tetris clone made in C,https://api.github.com/repos/MarcoLucidi01/tetris_clone,C,2019-05-26T19:00:44Z
+cold-clear,Tetris Bot,https://api.github.com/repos/MinusKelvin/cold-clear,Rust,2019-10-28T00:35:12Z
+php-tetris,"PHP로 만든 테트리스. PHP의 다양한 활용, 게임 프로그래밍의 기초 학습, 테트리스의 기본 로직 이해.",https://api.github.com/repos/ani2life/php-tetris,PHP,2019-09-20T17:57:54Z
+SlickTetris,Tetris implemented with the Slick Java 2D graphics/game library,https://api.github.com/repos/ShardPhoenix/SlickTetris,Java,2017-05-02T16:02:48Z
+TOPLauncher,A TOP(Tetris Online Poland) game launcher using Qt Library.,https://api.github.com/repos/BSoD-Ultimate/TOPLauncher,C++,2019-10-26T16:11:32Z
+freeblocks,FreeBlocks is a puzzle game with similar gameplay to Tetris Attack.,https://api.github.com/repos/dorkster/freeblocks,C,2019-08-26T11:54:29Z
+Tetris,JavaScript Tetris,https://api.github.com/repos/Russel-Tsang/Tetris,JavaScript,2019-10-10T19:27:16Z
+TetrisAI-By-Charming, 基于Pierre Dellacherie算法实现俄罗斯方块的人工智能,https://api.github.com/repos/Charming2015/TetrisAI-By-Charming,Python,2019-09-16T07:25:08Z
+Cocos2d-html5.Tetris,"Tetris game written in html5, using cocos2d-html5 library",https://api.github.com/repos/congbach/Cocos2d-html5.Tetris,JavaScript,2015-01-15T08:33:42Z
+AWKTC,AWKTC is Workable Klutzy Time-wasting Command,https://api.github.com/repos/mikkun/AWKTC,Awk,2019-08-31T14:22:16Z
+vscode-nand2tetris,Language support for Nand2Tetris.,https://api.github.com/repos/leafvmaple/vscode-nand2tetris,HTML,2019-08-13T08:08:15Z
+42-Fillit,Algorithms - Fit tetris pieces into the smallest square possible using recursive backtracking.,https://api.github.com/repos/Jemmeh/42-Fillit,C,2019-10-09T03:50:42Z
+TetrisOnWpf,C#とWPFでテトリスを作ってみた,https://api.github.com/repos/Taka414/TetrisOnWpf,C#,2018-09-24T11:22:57Z
+tetris-csfml,Tetris written in pure C with CSFML library.,https://api.github.com/repos/Oxore/tetris-csfml,C,2019-09-23T19:35:29Z
+ItsNotTetris,قدیمی‌ترین کد من و داستانش,https://api.github.com/repos/Hameds/ItsNotTetris,Pascal,2019-08-25T10:05:41Z
+TETRIS--Scheme--DrRacket,,https://api.github.com/repos/dangan249/TETRIS--Scheme--DrRacket,,2019-06-05T07:31:56Z
+nand2tetris,My workings for book / project. Don't copy them for the Coursera course!,https://api.github.com/repos/Olical/nand2tetris,Assembly,2019-08-08T06:53:16Z
+nand2tetris,This is the repo of the course NANDTOTETRIS: Building a computer from first principles,https://api.github.com/repos/sh4nnu/nand2tetris,Hack,2019-10-07T19:45:44Z
+nand2tetris,"Nand2Tetris: Includes an Assembler, Compiler, VM Translator, Snake Game, ALU, etc.",https://api.github.com/repos/jahnagoldman/nand2tetris,Java,2017-01-26T06:02:59Z
+tetris-js,simple tetris implementation in javascript,https://api.github.com/repos/huseyinyilmaz/tetris-js,JavaScript,2018-10-02T11:53:56Z
+Software_project---Tetris,軟體工程期末project－俄羅斯方塊,https://api.github.com/repos/jenny86520/Software_project---Tetris,C#,2018-01-09T12:01:24Z
+tetris-wlroots,Tetris as a Wayland compositor,https://api.github.com/repos/Timidger/tetris-wlroots,Rust,2019-09-29T05:38:34Z
+bayoen-star-exe,Old Score Counter for Puyo Puyo™ Tetris® on Steam,https://api.github.com/repos/bayoen/bayoen-star-exe,C#,2019-10-10T21:12:42Z
+VRSTetrisGame,Tetris game na predmet VRS,https://api.github.com/repos/Csabec3/VRSTetrisGame,C,2016-12-06T19:08:00Z
+Drew-Tris,Tetris ,https://api.github.com/repos/ase1210/Drew-Tris,JavaScript,2019-04-03T23:11:12Z
+gosu-tetris,Gosu implementation of classic Tetris,https://api.github.com/repos/russ/gosu-tetris,Ruby,2019-08-13T13:22:47Z
+AITetrisplayer,An AI which plays tetris,https://api.github.com/repos/rohrmann/AITetrisplayer,Java,2015-12-05T03:08:35Z
+Tutris9,Tetris 99 clone in rust,https://api.github.com/repos/Kurble/Tutris9,Rust,2019-10-21T10:59:59Z
+tetris_frontend,React tetris mod 4 project,https://api.github.com/repos/Nat-Reid/tetris_frontend,JavaScript,2019-07-17T22:31:36Z
+TSIU51-TETRIS,Tetris,https://api.github.com/repos/JesperMjornman/TSIU51-TETRIS,Assembly,2019-06-21T15:14:08Z
+BePuyo,A Tetris/GemDrop-like game,https://api.github.com/repos/HaikuArchives/BePuyo,C++,2018-07-03T05:49:58Z
+tetris,,https://api.github.com/repos/emilniklas/tetris,JavaScript,2019-09-09T14:28:31Z
+Tetris,,https://api.github.com/repos/btaylor4/Tetris,C++,2018-06-13T13:06:22Z
+tetris-sdl-and-ncurses,Tetris implemented C++ with SDL or Ncurses,https://api.github.com/repos/hiroom2/tetris-sdl-and-ncurses,C++,2019-06-08T23:15:13Z
+textris,"Tetris on terminal, written in Rust!",https://api.github.com/repos/ryym/textris,Rust,2019-07-24T01:52:05Z
+vmTetris,Tetris in a small virtual machine (11 lines of C),https://api.github.com/repos/2bt/vmTetris,Python,2019-10-18T12:54:46Z
+CanvasTetris,A free puzzle tetris game built in Canvas,https://api.github.com/repos/daihuaye/CanvasTetris,JavaScript,2018-05-30T15:34:12Z
+Tetris,A simple Tetris game written in Swift,https://api.github.com/repos/iluuu1994/Tetris,Swift,2018-01-23T19:21:39Z
+wasd-tetris,🎮 A tetris only with core data layer.,https://api.github.com/repos/wasd-org/wasd-tetris,JavaScript,2018-03-06T07:52:13Z
+tetris,Tetris Arcade mod for Minetest,https://api.github.com/repos/obneq/tetris,Lua,2018-11-28T19:05:31Z
+Tetris,Tetris game with opengl 2D,https://api.github.com/repos/letrungkien211/Tetris,C++,2018-12-01T16:44:12Z
+Unity3Dtetris,"This is a Tetris Game built using Unity3D engine, this is used for an experiment in Tohoku University. The Aim of the experiment is to compare brain activities when people are in normal state and panic state. By using Tetris Game we are able to control the speed of the game and measure users brain activities  during gamplay  To play a tutorial  demo  go to ",https://api.github.com/repos/clauxz/Unity3Dtetris,C#,2018-05-25T09:05:37Z
+tetris-game,🎮 Tetris Canvas JavaScript,https://api.github.com/repos/shystruk/tetris-game,JavaScript,2019-02-04T19:20:11Z
+tetristar,A multiplayer tetris,https://api.github.com/repos/acieroid/tetristar,C,2019-04-27T16:16:38Z
+Tetris,C++ console application for Windows,https://api.github.com/repos/rpickelsimer/Tetris,C++,2019-01-19T00:49:33Z
+tetris-ml-evolutionary-api,Machine learning api for distributed tetris agents,https://api.github.com/repos/cbpetersen/tetris-ml-evolutionary-api,TypeScript,2019-10-09T23:15:32Z
+deep-tetris,Tetris bot with deep reinforcement learning,https://api.github.com/repos/lazyguyy/deep-tetris,Python,2019-10-03T01:13:10Z
+tetris,Cross Platform Tetris,https://api.github.com/repos/bglusman/tetris,Ruby,2018-08-31T13:10:26Z
+blocks-ios,Haskell iPhone Tetris Clone,https://api.github.com/repos/schell/blocks-ios,Objective-C,2014-01-11T12:07:21Z
+js-tetris,A JavaScript Tetris experiment,https://api.github.com/repos/levacic/js-tetris,JavaScript,2014-12-04T17:21:53Z
+tetris,Tetris written in Typescript,https://api.github.com/repos/Prior99/tetris,TypeScript,2019-04-26T06:18:38Z
+Rhino-Tetris,Tetris for Rhinoceros,https://api.github.com/repos/henrydm/Rhino-Tetris,C#,2019-01-22T12:41:24Z
+tetris,"OpenGL tetris, it works!",https://api.github.com/repos/spacerIV/tetris,C,2017-10-30T16:45:16Z
+react-tetris,A Tetris with React,https://api.github.com/repos/NicoDrouin/react-tetris,JavaScript,2019-10-26T12:40:27Z
+artemekzarho.github.com,vanila calculator and tetris,https://api.github.com/repos/ArtemEkzarho/artemekzarho.github.com,JavaScript,2018-11-23T14:19:22Z
+python-tetris,Tetris game in Python,https://api.github.com/repos/benycze/python-tetris,Python,2018-12-20T06:15:55Z
+Tetris-the-Next-Generation,Tetris the Next Generation,https://api.github.com/repos/HemulGM/Tetris-the-Next-Generation,Pascal,2019-05-01T05:49:22Z
+Tetris-Typing,Tetris Typing (typing game like tetris),https://api.github.com/repos/Ryoga-exe/Tetris-Typing,C++,2019-09-17T15:09:01Z
+ntetris,Node.js tetris,https://api.github.com/repos/skopjehacklab/ntetris,JavaScript,2019-08-13T15:26:48Z
+tetris20g-ai,Tetris game AI for the highest drop speed (20G) environment,https://api.github.com/repos/ir5/tetris20g-ai,Rust,2019-08-26T02:13:10Z
+TetrisBattleAI,Make Tetris Great Again!,https://api.github.com/repos/amjltc295/TetrisBattleAI,Python,2019-05-27T03:40:39Z
+tetrisAI,Tetris simulation Artificial Intelligence,https://api.github.com/repos/khzaw/tetrisAI,Java,2017-12-01T03:55:21Z
+tetris,A simple Tetris-like game written in Clojure(Script),https://api.github.com/repos/markbastian/tetris,Clojure,2019-10-17T22:28:50Z
+tetriss,Clone do game Tetris feito em JavaScript :video_game: http://tetriss.com,https://api.github.com/repos/guitarrist/tetriss,JavaScript,2018-12-30T04:08:48Z
+NeoGeo-2-Player-Tetris,NeoGeo 2 Player Tetris using NeoBits NeoDev library,https://api.github.com/repos/Crim/NeoGeo-2-Player-Tetris,C,2018-07-08T22:11:35Z
+vita-tetromino,Tetris alike game written in lua for the PS VITA,https://api.github.com/repos/svennd/vita-tetromino,Lua,2019-10-20T18:47:56Z
+tetris_on_the_house,Augmented reality game,https://api.github.com/repos/DistinctVision/tetris_on_the_house,C++,2019-08-25T10:59:15Z
+tetris.gl,Example of implementing tetris-like simulation on the GPU using WebGL,https://api.github.com/repos/felixpalmer/tetris.gl,JavaScript,2017-03-08T03:16:35Z
+tetris-grid,◼️Lightweight and simple CSS grid,https://api.github.com/repos/felipeorlando/tetris-grid,CSS,2019-02-12T16:43:02Z
+ConsoleTetris,一个基于Windows控制台的俄罗斯方块游戏,https://api.github.com/repos/zhongyang219/ConsoleTetris,C++,2019-05-16T13:31:12Z
+ranked_tetris,,https://api.github.com/repos/josephan/ranked_tetris,Ruby,2019-05-25T21:19:00Z
+tetris.js,온라인 웹 테트리스,https://api.github.com/repos/Jinkwon/tetris.js,JavaScript,2019-09-20T02:56:43Z
+RgbTetris,"ATmega RGB display with pack of classic games (snake, tetris, space invaders, maze, asteroids) and UART control",https://api.github.com/repos/dragon-dreamer/RgbTetris,C++,2016-07-25T10:33:07Z
+ClassicTetrisMultiplayer,A Multiplayer Version of the Classic Tetris of Nintendo Entertainment System,https://api.github.com/repos/juan-burtet/ClassicTetrisMultiplayer,Python,2018-12-28T21:14:31Z
+Double-tetris,在俄罗斯方块的基础上增加游戏趣味性，使得古老的游戏焕发出新的光彩。我们的游戏在单人模式的基础上开发了情侣合作模式以及双人对战模式。在情侣合作模式中，游戏只含一个窗口，同时下落两个方块，每人控制其中一个方块合作消行。在双人对战模式中，分为两个窗口，同时增加了许许多多的道具，在两人对战的时候可以向对方发送攻击道具使得对方的游戏难度增加，也可以给自己发送道具使得己方游戏难度降低。由于原游戏界面比较简洁单调，我们结合最近火爆的迪士尼动画电影“疯狂动物城”，对界面、音效等方面做了优化，以期增加游戏乐趣，丰富用户体验。,https://api.github.com/repos/mztkenan/Double-tetris,Java,2019-03-17T12:48:48Z
+cocos2d-js-tetris,,https://api.github.com/repos/XoBpawok/cocos2d-js-tetris,JavaScript,2017-04-21T00:06:07Z
+Tetris-or-QuadraPassal,A java implementation of Tetris using the acm graphics library. This version uses the original tetris algorithm rather than the algorithm with chain reaction.,https://api.github.com/repos/hrishikeshs/Tetris-or-QuadraPassal,Java,2014-04-29T17:44:05Z
+simple-tetris,Tetris: Build and Destroy -- Simple Allegro 4.4 based Tetris Game (Under internal development phase),https://api.github.com/repos/dwipasawitra/simple-tetris,C++,2014-02-10T02:50:19Z
+hard-drop,,https://api.github.com/repos/efritz/hard-drop,Java,2018-01-26T17:40:19Z
+Tetris,Tetris le jeu. Réalisation d'architecture logicielle,https://api.github.com/repos/VincentChailley/Tetris,Java,2016-03-31T14:57:06Z
+TetraWord,Game mix between Tetris and Wordle,https://api.github.com/repos/JuliePO/TetraWord,Java,2014-12-21T20:04:25Z
+Tetris,Multiplayer Tetris,https://api.github.com/repos/Konnoke/Tetris,Java,2017-12-31T03:17:54Z
+tetris,"Golang demo to show use of basic  glfw window, opengl graphics, webgl (via gopherjs), and keyboard input.",https://api.github.com/repos/Omustardo/tetris,Go,2019-08-27T13:45:56Z
+cljs-tetris,A functional tetris written in clojurescript,https://api.github.com/repos/bonega/cljs-tetris,Clojure,2019-08-13T15:10:32Z
+Finesse,Frame rate independent 40 Key Tetris Implementation,https://api.github.com/repos/alex-ong/Finesse,Java,2019-08-23T06:08:33Z
+tetriswitch,Tetris clone for the Nintendo Switch,https://api.github.com/repos/Ryuzaki-MrL/tetriswitch,C,2019-10-16T11:07:42Z
+FPGA_Tetris,FPGA Tetris written in Verilog,https://api.github.com/repos/ViktorSlavkovic/FPGA_Tetris,Verilog,2019-07-03T03:23:57Z
+tetris,,https://api.github.com/repos/sztamas/tetris,Clojure,2016-03-11T08:13:27Z
+TetrisRoyale,"Multiplayer Tetris in browser, full JS",https://api.github.com/repos/aempisse/TetrisRoyale,JavaScript,2018-09-27T15:23:20Z
+petris,Tetris clone written in PureScript,https://api.github.com/repos/foollbar/petris,PureScript,2018-01-11T19:16:37Z
+tetrisino,Tetrisino - Tetris® clone for Arduino ,https://api.github.com/repos/emmynet/tetrisino,C++,2017-11-11T08:40:18Z
+Terminal-Tetris,The game of tetris played in the terminal,https://api.github.com/repos/tpeoples2/Terminal-Tetris,Python,2016-11-28T14:46:49Z
+TETRIS,A simple tetris clone in html5,https://api.github.com/repos/advaypal/TETRIS,JavaScript,2016-10-26T22:58:18Z
+SKTetrisGame,"A Tetris game created for iOS, using Apple's SpriteKit",https://api.github.com/repos/techsd-repo/SKTetrisGame,Swift,2018-04-02T16:49:15Z
+nahlc-g,Tetris clone made with libGDX,https://api.github.com/repos/oddlydrawn/nahlc-g,Java,2016-04-19T20:37:24Z
+TkTetris,A Tcl/Tk Tetris Clone,https://api.github.com/repos/nickbarth/TkTetris,Tcl,2019-07-27T04:33:23Z
+tetris3d,3D俄罗斯方块 Tetris 3D,https://api.github.com/repos/Liadrinz/tetris3d,TypeScript,2019-08-18T08:59:26Z
+BlocksBuino,BlocksBuino is a Tetris Clone for Gamebuino.,https://api.github.com/repos/frthery/BlocksBuino,Arduino,2018-12-09T14:14:16Z
+JS-Tetris,Yet another tetris game written in ES6,https://api.github.com/repos/mdietger/JS-Tetris,JavaScript,2019-10-01T14:42:19Z
+react-tetris,Tetris in pure React. Uses react-keydown,https://api.github.com/repos/vocafeuvre/react-tetris,JavaScript,2019-04-15T08:01:48Z
+Tetris-AI,Tetris Intelligent Agent written in Lisp,https://api.github.com/repos/JCoelhoo/Tetris-AI,Common Lisp,2017-06-01T00:53:22Z
+tetris,tetris based on Linux command line,https://api.github.com/repos/HugueLiu/tetris,C,2018-11-07T11:52:14Z
+Tetris-se2013,A Tetris with Item and Achievement,https://api.github.com/repos/xvblack/Tetris-se2013,C#,2016-05-18T06:38:50Z
+Tetris4G,A HTML5 game inspired by Tetris,https://api.github.com/repos/apirogov/Tetris4G,JavaScript,2014-03-03T17:09:08Z
+tetris,Attempt to find a brute-force solution to Tetris,https://api.github.com/repos/qntm/tetris,C,2019-07-10T20:21:06Z
+confusetris,confused tetris,https://api.github.com/repos/hut/confusetris,Python,2015-12-17T19:15:40Z
+tetris,A version of Tetris written in JQuery,https://api.github.com/repos/JonFranchi/tetris,JavaScript,2017-06-13T20:20:10Z
+Tetris-Clone,Simple Tetris Clone in C++ / SFML,https://api.github.com/repos/Powereleven/Tetris-Clone,C++,2019-05-15T01:50:57Z
+tetris-minimal-js,A minimal tetris game in Javascript,https://api.github.com/repos/bihanviranga/tetris-minimal-js,JavaScript,2019-01-30T11:55:08Z
+Tetris_NodeJS,A Tetris implementation in NodeJS.,https://api.github.com/repos/Maikon/Tetris_NodeJS,JavaScript,2014-05-31T21:38:44Z
+tetris,Tetris by Rust with OpenGL,https://api.github.com/repos/kmtoki/tetris,Rust,2019-09-08T15:59:47Z
+Tetris,"A remake of the classic tile-matching puzzle video game, played through the web browser. This game is implemented with HTML5 Canvas for rendering and JavaScript for game logic.",https://api.github.com/repos/rafgarciaa/Tetris,JavaScript,2019-07-09T13:11:23Z
+tetris,Tetris game built with PhaserJS and ES6.,https://api.github.com/repos/NiXXeD/tetris,JavaScript,2016-02-26T05:56:56Z
+tetris,Tetris in JavaScript and PIXI.js,https://api.github.com/repos/nylira/tetris,JavaScript,2017-04-10T00:14:05Z
+tetris-game,A simple Tetris game in OpenGL,https://api.github.com/repos/nmayorov/tetris-game,C,2019-05-26T17:22:08Z
+TetrisCocos,A Tetris clone in Cocos2dx,https://api.github.com/repos/anuragyayhdapu/TetrisCocos,C++,2019-05-09T12:42:44Z
+haxtris,Brain Stimulating tetris for blackhats (shellcode edition),https://api.github.com/repos/ehabhussein/haxtris,,2015-10-22T06:26:56Z
+Gay-Tris,My first cocos game (Tetris-like),https://api.github.com/repos/nmsuper86/Gay-Tris,C++,2015-08-27T17:40:03Z
+golden-tetris-5,Remake of Golden Tetris for Windows game done with React/Redux.,https://api.github.com/repos/gsbelarus/golden-tetris-5,JavaScript,2019-06-09T00:31:31Z
+multi-tetris,,https://api.github.com/repos/kim-yeon-gyu-exlock/multi-tetris,C,2019-07-15T07:24:06Z
+LegoTetris,,https://api.github.com/repos/RobotTetrisENSICAEN/LegoTetris,Java,2014-04-25T13:17:41Z
+Tetris,Tetris code written for an Aruduino,https://api.github.com/repos/h3dg3-Wytch/Tetris,C,2016-03-08T18:09:40Z
+fumen-for-mobile-ts,Tetris diagram editor for mobile,https://api.github.com/repos/knewjade/fumen-for-mobile-ts,TypeScript,2019-10-26T07:06:21Z
+tetris-engine,"Unity supported Tetris engine, supporting manual and ai play",https://api.github.com/repos/cbpetersen/tetris-engine,C#,2019-10-08T20:17:55Z
+tblocks-front-end,Multiplayer tetris-like game that allows you play against a random opponent from the Internet,https://api.github.com/repos/dkm-coder/tblocks-front-end,JavaScript,2018-05-22T13:25:14Z
+tetris.js,A Tetris clone written in JavaScript,https://api.github.com/repos/1995eaton/tetris.js,JavaScript,2017-08-01T15:59:23Z
+TetrisAI,Tetris AI trained using genetic algorithms.,https://api.github.com/repos/AndresGalaviz/TetrisAI,Java,2017-06-17T17:42:55Z
+tetris,Simple Tetris game written in Java,https://api.github.com/repos/mx85/tetris,Java,2017-12-01T03:55:28Z
+tetris-challenge,,https://api.github.com/repos/Threde/tetris-challenge,,2016-05-19T17:01:20Z
+tetris-game,Visual programming project,https://api.github.com/repos/Dina-G/tetris-game,C#,2016-05-15T21:36:09Z
+zy.tetris,,https://api.github.com/repos/iallai/zy.tetris,JavaScript,2014-01-26T10:20:07Z
+tetris-crush,A simple tetris based game with elements from a match 3 game,https://api.github.com/repos/Tetris-Crush/tetris-crush,GDScript,2018-12-19T03:05:53Z
+hanami,"A Tetris clone, written in Javascript and CSS, with a little jQuery magic.",https://api.github.com/repos/banker/hanami,JavaScript,2019-08-13T14:21:55Z
+buratino-phone,Phone based on Atmega328 and SIM800C with TFT touchscreen display and Arduino bootloader. The case is wooden.,https://api.github.com/repos/koptserg/buratino-phone,C++,2019-07-17T11:19:19Z
+Tetromino,"One of my favorite games implemented for iOS, macOS + CLI",https://api.github.com/repos/Stitch7/Tetromino,Swift,2018-05-19T11:56:59Z
+garapa,"A gameboy emulator, written in C with an optional tetris AI and Julia API",https://api.github.com/repos/h3nnn4n/garapa,C,2019-04-21T22:41:47Z
+Tetris-Rose-Hulman-Project,,https://api.github.com/repos/pfarcasanu/Tetris-Rose-Hulman-Project,Python,2019-09-12T03:17:48Z
+nand2tetris,Building a computer from first principles,https://api.github.com/repos/GabrielGallagher/nand2tetris,,2019-07-07T09:12:43Z
+Nand2Tetris,This repository consists of Implementation for Nand2Tetris assignments,https://api.github.com/repos/saikumarm4/Nand2Tetris,Assembly,2019-10-22T08:30:05Z
+Tetris,a very basic tetris game made with java (javaFX),https://api.github.com/repos/SDIDSA/Tetris,Java,2019-04-30T18:01:40Z
+Tetris-for-the-arduboy,A classic clone of tetris for the arduboy,https://api.github.com/repos/Nav399/Tetris-for-the-arduboy,Arduino,2018-12-10T17:18:07Z
+TetrisOnArduino,Tetris in LED display,https://api.github.com/repos/KutkoSergey/TetrisOnArduino,C++,2018-07-19T05:56:59Z
+42-filler,Algorithm & Infographic ~ Tetris Like,https://api.github.com/repos/agavrel/42-filler,C,2017-05-27T05:07:16Z
+Tedroid,Tetris on Android,https://api.github.com/repos/DerekDick/Tedroid,Java,2018-05-06T19:38:30Z
+fumenizer,Creates a Fumen ( http://fumen.zui.jp#english.js ) diagram from an image of a Tetris playfield.,https://api.github.com/repos/steadshot/fumenizer,Python,2019-02-18T21:30:33Z
+tetrisy,https://tetris.isthe.link,https://api.github.com/repos/remy/tetrisy,JavaScript,2019-10-08T18:10:47Z
+cairotrix,"Tetris game built on top of Clojure, GTK+ and Cairo",https://api.github.com/repos/danwerner/cairotrix,Clojure,2019-08-19T18:45:44Z
+defold-tetris,Tetris made with Defold,https://api.github.com/repos/joachimvalente/defold-tetris,,2019-10-05T09:47:22Z
+tetris,An HTML5 Tetris,https://api.github.com/repos/juabara/tetris,JavaScript,2015-08-21T12:32:39Z
+Tetris-Reinforcement-Learning,Tetris Reinforcement Learning,https://api.github.com/repos/lyzqm123/Tetris-Reinforcement-Learning,C++,2018-06-10T17:13:36Z
+Tetris,Tetris on iPhone,https://api.github.com/repos/dm4/Tetris,Objective-C,2014-05-11T09:53:49Z
+omtet,Online Multiplayer Tetris,https://api.github.com/repos/sveri/omtet,Clojure,2017-08-08T01:12:59Z
+vg-tetris,Tetris for SourceMod ES,https://api.github.com/repos/mukunda-/vg-tetris,SourcePawn,2018-07-03T05:09:47Z
+tdtetris,Test Driven Developed Tetris,https://api.github.com/repos/Kouty/tdtetris,TypeScript,2018-09-15T12:49:29Z
+tetris,Tetris (Ren'Py),https://api.github.com/repos/sDextra/tetris,Ren'Py,2019-01-02T22:16:04Z
+Tetris,Classic Tetris on Processing.,https://api.github.com/repos/skbrii/Tetris,Processing,2018-12-23T19:07:22Z
+Snakis,When Snake meets Tetris...,https://api.github.com/repos/fbessou/Snakis,Python,2017-05-30T11:52:15Z
+Tetris,Tetris game in Python,https://api.github.com/repos/Datamine/Tetris,Python,2017-07-18T05:10:47Z
+nand2coq,Build an educational formally verified version of the Nand 2 Tetris course using Coq (and other formal tools).,https://api.github.com/repos/philzook58/nand2coq,Coq,2019-10-05T05:01:23Z
+tetris,"A frustration filled tetris clone, for your enjoyment.",https://api.github.com/repos/anthonyclays/tetris,Rust,2019-01-22T13:54:03Z
+tetris,Tetris in Common Lisp,https://api.github.com/repos/slacombe/tetris,Common Lisp,2018-07-27T00:12:28Z
+CTris,C++ Tetris using SDL,https://api.github.com/repos/ajmarin/CTris,C++,2018-05-12T21:30:24Z
+asdftris,python tetris clone,https://api.github.com/repos/hyperfusion/asdftris,Python,2019-08-13T13:56:08Z
+FPGA-tetris,tetris game on FPGA,https://api.github.com/repos/ericleaf/FPGA-tetris,Verilog,2019-09-12T13:17:34Z
+Tetris,"Tetris, with slick2d",https://api.github.com/repos/dbraillon/Tetris,Java,2016-12-04T09:35:20Z
+TetrisPi,Tetris for the raspberry pi made using the pimoroni GFX Hat,https://api.github.com/repos/ArthanJans/TetrisPi,Python,2019-08-17T20:42:21Z
+FourBlocks,A simple Tetris clone.,https://api.github.com/repos/FluxDenisty/FourBlocks,Java,2014-05-12T12:35:28Z
+react-tetris,Tetris with gravity falls,https://api.github.com/repos/esseswann/react-tetris,JavaScript,2019-10-24T16:55:13Z
+BitTetris,A Tetris game written in Pascal language. ,https://api.github.com/repos/VMatrices/BitTetris,Pascal,2019-06-03T11:10:00Z
+TetrisAI,Create AI for Tetris game by applying machine learning algorithm,https://api.github.com/repos/giongto35/TetrisAI,Java,2018-01-26T12:36:26Z
+TetrisTank,Ludum Dare 40 Compo,https://api.github.com/repos/shrekshao/TetrisTank,C#,2018-02-26T08:04:39Z
+ClassicPuzzlerGame,Tetris implementation for Android,https://api.github.com/repos/DiegoGarciaMartin/ClassicPuzzlerGame,Java,2017-08-01T20:58:21Z
+Polyblocks,Multiplayer tetris game,https://api.github.com/repos/ad-si/Polyblocks,JavaScript,2019-01-02T15:46:23Z
+tetris-react,Tetris in React,https://api.github.com/repos/godspeedelbow/tetris-react,JavaScript,2018-06-15T07:55:52Z
+terminal-tetris,Tetris in you Terminal,https://api.github.com/repos/leandersabel/terminal-tetris,Ruby,2019-04-07T19:34:08Z
+tetris_stubs,tetris_stubs,https://api.github.com/repos/thomashw/tetris_stubs,Java,2014-11-05T21:27:46Z
+TetrisPuzzle,A fun and relaxing puzzle game!,https://api.github.com/repos/AdoboFrenzy/TetrisPuzzle,JavaScript,2018-07-11T17:57:43Z
+brick,"A simple Tetris clone, written with LOVE.",https://api.github.com/repos/matterweave/brick,Lua,2017-08-31T09:36:54Z
+limbotris,"""Tetris"" for Inferno, written in Limbo",https://api.github.com/repos/adamf/limbotris,Objective-C,2019-08-31T15:44:16Z
+Tetris.ts,A simple Tetris game written in TypeScript,https://api.github.com/repos/henshmi/Tetris.ts,TypeScript,2019-09-18T14:38:35Z
+tetris-disassembly,Tetris (GB) Disassembly compatible with RGBDS (Tested),https://api.github.com/repos/davFaithid/tetris-disassembly,Assembly,2019-10-15T03:10:38Z
+tetrisduino,Tetris and columns for Arduino Esplora,https://api.github.com/repos/iams83/tetrisduino,C++,2019-03-26T17:41:31Z
+Tetris,Java based Tetris as a training project,https://api.github.com/repos/frankkopp/Tetris,Java,2019-04-16T01:03:22Z
+rustris,An implementation of Tetris written in Rust.,https://api.github.com/repos/jstnlef/rustris,Rust,2018-06-22T02:50:48Z
+HsTetrisAttack,A tetris attack clone written in Haskell,https://api.github.com/repos/Mokosha/HsTetrisAttack,Haskell,2018-05-02T16:03:11Z
+haskell-tetris,A simple tetris-like game in Haskell,https://api.github.com/repos/pavelfatin/haskell-tetris,Haskell,2019-03-24T03:23:45Z
+TetrisColors,TetrisColors,https://api.github.com/repos/MynorCifuentes/TetrisColors,Java,2018-10-31T15:27:16Z
+TetrisAttack,,https://api.github.com/repos/ronforbes/TetrisAttack,C#,2018-09-02T03:11:11Z
+tetrisRL,,https://api.github.com/repos/fedepare/tetrisRL,Python,2018-01-06T01:21:28Z
+TetrisProject,,https://api.github.com/repos/dustanlevenstein/TetrisProject,Python,2019-07-15T15:37:15Z
+Tetris2016,Architecturelogicielle2016,https://api.github.com/repos/sabri5club/Tetris2016,Java,2016-04-02T17:24:57Z
+tetris2048,俄罗斯方块2048,https://api.github.com/repos/wyklion/tetris2048,JavaScript,2018-12-23T09:18:07Z
+TetrisAI,,https://api.github.com/repos/Eug145/TetrisAI,JavaScript,2019-07-30T12:54:56Z
+Tetris232,,https://api.github.com/repos/karimElmougi/Tetris232,Java,2017-03-17T23:06:33Z
+tetrisml,A simple tetris game in OCaml,https://api.github.com/repos/bnegreve/tetrisml,OCaml,2019-04-09T21:28:52Z
+UEFImarkAndTetris64,UEFI applications. System information and benchmarks. Tetris.,https://api.github.com/repos/manusov/UEFImarkAndTetris64,Assembly,2019-08-20T22:46:18Z
+cl-tetris,A tetris game written in common lisp,https://api.github.com/repos/bbirec/cl-tetris,Common Lisp,2019-08-13T15:13:09Z
+vue-tetris,俄罗斯方块,https://api.github.com/repos/IdeaTry/vue-tetris,JavaScript,2017-12-28T01:09:25Z
+Tetris3,,https://api.github.com/repos/JayJayHunter/Tetris3,Java,2015-06-18T08:10:42Z
+106-SE-Tetris,,https://api.github.com/repos/segnolin/106-SE-Tetris,Python,2017-12-19T05:27:39Z
+evolving-tetris,Fourth-year university project for evolving a tetris player with generic algorithms,https://api.github.com/repos/davidsansome/evolving-tetris,C++,2018-01-22T18:43:29Z
+Tetris-demo,A tetris(俄罗斯方块) game create by unity3d.,https://api.github.com/repos/scolia/Tetris-demo,C#,2019-03-05T02:05:49Z
+Tetris-JavaFundamentals-Teamwork,,https://api.github.com/repos/TetrisGame-SoftUni/Tetris-JavaFundamentals-Teamwork,Java,2015-10-29T09:59:33Z
+cnt,"Coop Network Tetris, a university project.",https://api.github.com/repos/maandree/cnt,Java,2019-04-22T19:29:18Z
+pytetris,Tetris clone made with Python and Pygame.,https://api.github.com/repos/catalinc/pytetris,Python,2019-04-21T18:33:47Z
+termotetris,A silly terminal tetris written in Python.,https://api.github.com/repos/feychou/termotetris,Python,2017-04-14T15:03:33Z
+ledsply,LED Display / Let's Play (Tetris),https://api.github.com/repos/Draradech/ledsply,C++,2018-05-13T10:00:24Z
+tetris,,https://api.github.com/repos/jimwong1023/tetris,Ruby,2015-12-23T20:05:16Z
+xlTetris,Tetris,https://api.github.com/repos/Streamlet/xlTetris,C++,2018-08-03T15:04:01Z
+nand2tetris,My implementation of the project,https://api.github.com/repos/santigl/nand2tetris,Assembly,2016-01-12T17:00:40Z
+Colorines,"Java game for practicing the university, which is a variant of Tetris",https://api.github.com/repos/garciparedes/Colorines,Java,2014-06-19T13:45:04Z
+G9_Tetris,,https://api.github.com/repos/M-DIAB/G9_Tetris,Assembly,2017-10-28T21:24:08Z
+Tetris,tetris,https://api.github.com/repos/aslin/Tetris,Java,2014-04-14T07:01:59Z
+Unifox-Tetris,tetris!,https://api.github.com/repos/StrongHigh/Unifox-Tetris,Python,2019-07-03T03:09:03Z
+tetris,tetris,https://api.github.com/repos/stepcie/tetris,Python,2013-11-21T22:41:12Z
+tetris,tetris,https://api.github.com/repos/iyox/tetris,,2019-08-13T14:23:00Z
+tetris,tetris,https://api.github.com/repos/descent/tetris,C++,2019-09-04T08:56:04Z
+clojure-tetris,Clojure GUI Demo of Tetris,https://api.github.com/repos/juliangamble/clojure-tetris,Clojure,2014-08-30T06:55:42Z
+Tetris,Sam Coupé version of Tetris,https://api.github.com/repos/BalorPrice/Tetris,Assembly,2019-01-17T22:44:01Z
+Tetris,Tetris,https://api.github.com/repos/vduubv/Tetris,Java,2014-03-28T09:37:09Z
+tetris,Because writing Tetris is a rite of passage.,https://api.github.com/repos/kylefox/tetris,JavaScript,2016-03-10T03:36:25Z
+tetris.js,Learn Javascript and JQuery by Re-building Tetris,https://api.github.com/repos/chikeichan/tetris.js,JavaScript,2016-01-18T02:18:27Z
+react-hooks-tetris,A tetris game made with React and Hooks,https://api.github.com/repos/weibenfalk/react-hooks-tetris,JavaScript,2019-10-06T03:18:18Z
+Ultimate-Tetris-3D-Unity,,https://api.github.com/repos/marvpaul/Ultimate-Tetris-3D-Unity,C#,2019-08-31T23:13:14Z
+JavaScriptris,A simple JavaScript Tetris clone.,https://api.github.com/repos/hagward/JavaScriptris,JavaScript,2019-08-31T13:51:14Z
+tetrisJS,A simple Tetris in JS,https://api.github.com/repos/GuillaumeGomez/tetrisJS,JavaScript,2019-10-19T17:46:19Z
+tetriz,Tetris for iOS with Swift,https://api.github.com/repos/grimcoder/tetriz,Swift,2016-02-06T19:50:14Z
+Tetris,Tetris game (first C project),https://api.github.com/repos/tobias-haenel/Tetris,C,2018-02-28T19:19:24Z

@@ -7,14 +7,11 @@ setuptools.setup(
     name="listdir",
     version="0.0.1",
     author="CelebradoJonathan",
-    description="A package for listdir",
+    description="A package for rest",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/CelebradoJonathan/listdir/tree/with-date-filename",
+    url="https://github.com/CelebradoJonathan/search-github",
     packages=setuptools.find_packages(),
     python_requires='>=3.7',
-    entry_points={
-        'console_scripts':['listdir=listdir_pkg.listdir:main'],
-    },
     include_package_data = True,
 )
